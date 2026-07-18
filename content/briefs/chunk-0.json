@@ -1,0 +1,112 @@
+[
+ {
+  "slug": "denver-estate-planning-attorney",
+  "keyword": "denver estate planning attorney",
+  "cluster": "planning",
+  "intent": "hire",
+  "demand": 8,
+  "difficulty": 7,
+  "value": 10,
+  "opportunity": 11.4,
+  "angle": "Highland-office local access; what a real plan includes beyond a will; 2026 exemption reset"
+ },
+ {
+  "slug": "colorado-estate-planning-attorney",
+  "keyword": "colorado estate planning attorney",
+  "cluster": "planning",
+  "intent": "hire",
+  "demand": 8,
+  "difficulty": 7,
+  "value": 10,
+  "opportunity": 11.4,
+  "angle": "statewide practice; clear quoted fees; national platform depth"
+ },
+ {
+  "slug": "denver-wills-attorney",
+  "keyword": "wills attorney denver",
+  "cluster": "planning",
+  "intent": "hire",
+  "demand": 5,
+  "difficulty": 6,
+  "value": 9,
+  "opportunity": 7.5,
+  "angle": "what a will does and doesn't do; guardianship for minors; execution formalities"
+ },
+ {
+  "slug": "colorado-wills-and-trusts-lawyer",
+  "keyword": "wills and trusts lawyer colorado",
+  "cluster": "planning",
+  "intent": "hire",
+  "demand": 5,
+  "difficulty": 6,
+  "value": 9,
+  "opportunity": 7.5,
+  "angle": "will vs trust decision framework; funding discipline"
+ },
+ {
+  "slug": "colorado-living-trust-attorney",
+  "keyword": "living trust attorney colorado",
+  "cluster": "planning",
+  "intent": "hire",
+  "demand": 6,
+  "difficulty": 6,
+  "value": 10,
+  "opportunity": 10,
+  "angle": "probate avoidance mechanics; funding the trust; successor trustee design"
+ },
+ {
+  "slug": "denver-living-trust-lawyer",
+  "keyword": "denver living trust lawyer",
+  "cluster": "planning",
+  "intent": "hire",
+  "demand": 4,
+  "difficulty": 5,
+  "value": 9,
+  "opportunity": 7.2,
+  "angle": "Denver real-estate titling into trusts; deed work"
+ },
+ {
+  "slug": "colorado-revocable-trust-attorney",
+  "keyword": "revocable living trust colorado",
+  "cluster": "planning",
+  "intent": "hire",
+  "demand": 4,
+  "difficulty": 5,
+  "value": 9,
+  "opportunity": 7.2,
+  "angle": "revocable vs irrevocable; control while living; incapacity backup"
+ },
+ {
+  "slug": "colorado-irrevocable-trust-attorney",
+  "keyword": "irrevocable trust attorney colorado",
+  "cluster": "planning",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 5,
+  "value": 9,
+  "opportunity": 5.4,
+  "angle": "asset protection and tax uses; tradeoffs stated honestly"
+ },
+ {
+  "slug": "denver-family-trust-attorney",
+  "keyword": "family trust attorney denver",
+  "cluster": "planning",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 5,
+  "value": 9,
+  "opportunity": 5.4,
+  "angle": "multigenerational design; distribution standards that prevent fights"
+ },
+ {
+  "slug": "colorado-asset-protection-attorney",
+  "keyword": "asset protection attorney colorado",
+  "cluster": "planning",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 5,
+  "value": 9,
+  "opportunity": 5.4,
+  "angle": "legitimate protection tools vs fraudulent-transfer traps"
+ }
+]

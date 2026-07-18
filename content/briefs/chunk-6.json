@@ -1,0 +1,112 @@
+[
+ {
+  "slug": "colorado-medicaid-planning-attorney",
+  "keyword": "medicaid planning attorney colorado",
+  "cluster": "tax",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 4.5,
+  "angle": "long-term-care costs; planning-ahead concepts; ethical framing"
+ },
+ {
+  "slug": "colorado-ilit-attorney",
+  "keyword": "irrevocable life insurance trust colorado",
+  "cluster": "tax",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 2.7,
+  "angle": "keeping insurance out of the estate; when ILITs still matter"
+ },
+ {
+  "slug": "colorado-qprt-attorney",
+  "keyword": "qualified personal residence trust colorado",
+  "cluster": "tax",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 2.7,
+  "angle": "mountain-home QPRTs; discount mechanics simply"
+ },
+ {
+  "slug": "colorado-nonresident-alien-estate-planning",
+  "keyword": "estate planning non citizens colorado",
+  "cluster": "tax",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 3,
+  "angle": "non-citizen spouse issues generally; global families"
+ },
+ {
+  "slug": "colorado-retirement-account-trust",
+  "keyword": "retirement account trust colorado",
+  "cluster": "tax",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 2.7,
+  "angle": "modern IRA planning generally; trusts as beneficiaries"
+ },
+ {
+  "slug": "colorado-springs-estate-planning-attorney",
+  "keyword": "colorado springs estate planning attorney",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 4,
+  "difficulty": 5,
+  "value": 9,
+  "opportunity": 7.2,
+  "angle": "military families; deployment-aware planning"
+ },
+ {
+  "slug": "colorado-springs-probate-attorney",
+  "keyword": "probate attorney colorado springs",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 5,
+  "value": 9,
+  "opportunity": 5.4,
+  "angle": "El Paso county probate; local access"
+ },
+ {
+  "slug": "boulder-estate-planning-attorney",
+  "keyword": "boulder estate planning attorney",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 5,
+  "value": 9,
+  "opportunity": 5.4,
+  "angle": "tech wealth; equity compensation in estates; charitable leanings"
+ },
+ {
+  "slug": "fort-collins-estate-planning-attorney",
+  "keyword": "fort collins estate planning attorney",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 6.8,
+  "angle": "NoCo families; farm-adjacent estates"
+ },
+ {
+  "slug": "aurora-estate-planning-attorney",
+  "keyword": "estate planning attorney aurora co",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 4,
+  "angle": "diverse families; accessible planning"
+ }
+]

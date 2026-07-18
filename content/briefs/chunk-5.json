@@ -1,0 +1,112 @@
+[
+ {
+  "slug": "colorado-lost-will-lawyer",
+  "keyword": "lost will colorado",
+  "cluster": "dispute",
+  "intent": "research",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 2.7,
+  "angle": "proving a lost will; copies; presumption issues"
+ },
+ {
+  "slug": "colorado-estate-property-title-dispute",
+  "keyword": "estate property title dispute colorado",
+  "cluster": "dispute",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 3,
+  "angle": "deeds signed late in life; joint-tenancy surprises"
+ },
+ {
+  "slug": "colorado-estate-tax-planning",
+  "keyword": "estate tax planning colorado",
+  "cluster": "tax",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 5,
+  "value": 10,
+  "opportunity": 6,
+  "angle": "no state estate tax + the new federal exemption; who still needs planning"
+ },
+ {
+  "slug": "federal-estate-tax-exemption-2026",
+  "keyword": "federal estate tax exemption 2026",
+  "cluster": "tax",
+  "intent": "research",
+  "demand": 4,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 9,
+  "angle": "the 2025 federal law change explained; why plans need rereading"
+ },
+ {
+  "slug": "colorado-gift-tax-planning",
+  "keyword": "gift tax planning colorado",
+  "cluster": "tax",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 4.5,
+  "angle": "annual exclusion; lifetime gifts; basis tradeoffs"
+ },
+ {
+  "slug": "colorado-generation-skipping-trust",
+  "keyword": "generation skipping trust colorado",
+  "cluster": "tax",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 2.3,
+  "angle": "dynasty planning concepts plainly"
+ },
+ {
+  "slug": "colorado-charitable-remainder-trust",
+  "keyword": "charitable remainder trust colorado",
+  "cluster": "tax",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 2.3,
+  "angle": "income + legacy + deduction; CRT mechanics simply"
+ },
+ {
+  "slug": "colorado-charitable-planning-attorney",
+  "keyword": "charitable giving attorney colorado",
+  "cluster": "tax",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 2.7,
+  "angle": "DAFs vs foundations vs CRTs; Colorado causes"
+ },
+ {
+  "slug": "colorado-business-succession-planning",
+  "keyword": "business succession planning colorado",
+  "cluster": "tax",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 4,
+  "value": 10,
+  "opportunity": 5,
+  "angle": "buy-sell agreements; founder exits; family vs sale paths"
+ },
+ {
+  "slug": "colorado-special-needs-trust-attorney",
+  "keyword": "special needs trust colorado",
+  "cluster": "tax",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 4.5,
+  "angle": "protecting benefits eligibility; first- vs third-party SNTs"
+ }
+]

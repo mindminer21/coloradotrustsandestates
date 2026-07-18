@@ -1,0 +1,80 @@
+{
+  "slug": "digital-assets-estate-planning-colorado",
+  "keyword": "digital assets estate planning colorado",
+  "cluster": "planning",
+  "title": "Digital Assets Estate Planning in Colorado | Whiteford",
+  "metaDescription": "Crypto, online accounts, photos, and passwords — plan so your family can actually reach them. Colorado digital asset estate planning. Call (720) 853-1579.",
+  "h1": "Digital Assets Estate Planning in Colorado",
+  "heroSub": "Your executor can open a filing cabinet with a key. Your online life — accounts, photos, crypto — needs a plan of its own, or it may simply be lost.",
+  "heroEyebrow": "Colorado · Digital Assets",
+  "intro": [
+    "When a Boulder software engineer passed away, his family knew the crypto existed — he had mentioned it at Thanksgiving. What they never found was the way in. No seed phrase, no exchange login, no instructions. The value remains permanently out of reach.",
+    "Most estates now include digital property: cryptocurrency, online banking access, cloud photo libraries, domain names, online businesses, and email accounts that unlock everything else. Traditional wills were not written with it in mind.",
+    "Whiteford's Colorado team builds digital assets into estate plans. This page covers what counts as a digital asset, why fiduciaries get locked out, and the practical system that keeps your online life reachable."
+  ],
+  "sections": [
+    {
+      "heading": "What counts as a digital asset — more than crypto",
+      "paragraphs": [
+        "Cryptocurrency gets the headlines because it is unforgiving: whoever holds the keys holds the asset, and lost keys mean lost value. But the bigger everyday category is access itself — the email account that receives every password reset, the cloud storage holding decades of family photos, payment apps with balances, the domains and storefronts that may be a family's livelihood.",
+        "Some digital assets have market value; others only sentimental value; a few, like a revenue-producing website, are genuine businesses. A plan should sort yours into those buckets, because each is handled differently — valued and transferred, preserved and shared, or managed and sold."
+      ],
+      "bullets": [
+        "Cryptocurrency and exchange accounts, where key custody is everything",
+        "Email and cloud storage — the master keys to the rest of the estate",
+        "Online financial accounts, payment apps, and stored balances",
+        "Domains, websites, storefronts, and creator accounts that earn income",
+        "Photo libraries, social media, and subscriptions that need closing or memorializing"
+      ]
+    },
+    {
+      "heading": "Why families get locked out — and what the law can fix",
+      "paragraphs": [
+        "Two walls stand between a grieving family and a loved one's accounts: terms-of-service agreements that prohibit password sharing and account transfer, and privacy laws that bar providers from handing over contents freely. Well-meaning workarounds — logging in as the deceased — can violate those terms and computer-access laws. The lockout is a legal problem, not just a technical one.",
+        "Colorado has adopted a uniform law on fiduciary access to digital assets, which lets you authorize your personal representative, trustee, or agent to reach digital property — but it works best when explicit in your documents and paired with providers' own legacy-contact tools. Silence in your will means the law defaults to the providers' terms, and families inherit the lockout."
+      ]
+    },
+    {
+      "heading": "A practical system: inventory, access, authority",
+      "paragraphs": [
+        "The plan has three layers. Inventory: a maintained list of accounts and assets — without passwords written in the will, which becomes public in probate. Access: credentials kept in a password manager or secure instruction letter your fiduciary can reach, with crypto keys stored under a custody arrangement matched to the amount at stake. Authority: estate documents that expressly empower your fiduciaries to access, manage, and close digital accounts.",
+        "The free Colorado Estate Snapshot at /estate-snapshot includes digital assets in its inventory prompts, and a free Legacy Game Plan Session is the natural place to bring the messy reality of your online life. The attorney will tailor the custody details — especially for crypto — to what you actually hold."
+      ]
+    }
+  ],
+  "localFacts": [
+    "Colorado has adopted a uniform fiduciary access law letting properly drafted estate documents authorize executors, trustees, and agents to reach digital assets",
+    "Colorado's state government has been notably crypto-forward, even accepting cryptocurrency for certain state payments",
+    "The Denver-Boulder tech corridor is dense with startup equity, online businesses, and crypto holdings that rarely fit paper-era planning templates"
+  ],
+  "faqs": [
+    {
+      "q": "What happens to my cryptocurrency when I die if no one has the keys?",
+      "a": "It is very likely gone. Self-custodied crypto is controlled solely by its private keys or seed phrase; without them, no issuer, court, or customer service department can recover it. Exchange-held crypto is more recoverable, but still requires legal authority and documentation. This is why crypto planning is mostly custody planning: a secure, findable path to the keys for the right person."
+    },
+    {
+      "q": "Should I put my passwords in my will?",
+      "a": "No. A will filed in probate becomes part of a court record, and passwords change constantly — the will would be too public and immediately stale. The better pattern is separation: the will and related documents grant your fiduciary authority over digital assets, while access details live in a password manager or a secure instruction letter your fiduciary can reach. Authority in the documents, credentials in the vault."
+    },
+    {
+      "q": "Can my executor legally access my online accounts in Colorado?",
+      "a": "Yes, if you plan for it. Colorado's uniform fiduciary access framework recognizes authorization you give in a will, trust, or power of attorney, and providers' own tools — legacy contacts and inactive-account settings — supplement it. Without that authorization, providers fall back on their terms of service, often meaning refusal, delay, or permanent loss. Explicit digital-asset language converts a lockout into an administrative task."
+    },
+    {
+      "q": "What about my photos, email, and social media accounts?",
+      "a": "Decide what should happen and record it: photo libraries preserved and shared with family, email held long enough to wind down the estate, social profiles memorialized or deleted. Then set the provider-side tools — legacy contacts and inactive-account managers — to match, because those settings often control regardless of your will. Sentimental digital property is what families grieve losing most, and the cheapest to protect."
+    },
+    {
+      "q": "Do digital assets go through probate in Colorado?",
+      "a": "Digital property you own — crypto, domain names, an online business — is part of your estate and follows your will, trust, or beneficiary arrangements. Licenses and accounts, by contrast, are often nontransferable under their terms, so the question becomes access and wind-down rather than inheritance. A good plan sorts what passes to heirs from what simply needs managing, and gives your fiduciary authority for both."
+    }
+  ],
+  "related": [
+    "colorado-estate-planning-attorney",
+    "colorado-executor-duties",
+    "colorado-trust-administration-attorney",
+    "colorado-estate-planning-checklist",
+    "how-to-avoid-probate-colorado",
+    "colorado-wills-and-trusts-lawyer"
+  ]
+}

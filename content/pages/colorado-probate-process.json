@@ -1,0 +1,81 @@
+{
+  "slug": "colorado-probate-process",
+  "keyword": "how does probate work in colorado",
+  "cluster": "probate",
+  "title": "How Does Probate Work in Colorado? | Whiteford",
+  "metaDescription": "A plain-English walkthrough of Colorado probate — opening the estate, paying creditors, closing it out. Whiteford's Colorado team can help. (720) 853-1579.",
+  "h1": "How Does Probate Work in Colorado?",
+  "heroSub": "Probate is really three chapters: opening the estate, doing the work, and closing it down. Here is the whole arc in plain English — so the executor in your family knows what is normal and what is not.",
+  "heroEyebrow": "Colorado · Probate Guide",
+  "intro": [
+    "Nobody studies probate until they have to. Then, usually within days of a death, one family member is handed the job and a hundred questions arrive at once: who has authority to open the mail, can we pay the mortgage, when can the accounts be touched, does anyone have to go to court? The process feels opaque mostly because no one has ever shown you the map.",
+    "The map is simpler than you fear. Colorado follows the Uniform Probate Code, and the typical estate moves through three recognizable chapters — opening, administration, and closing — most of it handled through paperwork rather than hearings. Whiteford's Colorado team, part of Whiteford's national trusts and estates platform, guides personal representatives through every chapter, at whatever level of help the estate actually needs.",
+    "What follows is the step-by-step arc for a typical Colorado estate, plus the places where families most often stumble."
+  ],
+  "sections": [
+    {
+      "heading": "Chapter one: opening the estate",
+      "paragraphs": [
+        "Probate begins when someone — usually the person named in the will — files with the right court: the district court in the county where the decedent lived, or Denver Probate Court for Denver residents. If the will is unquestioned, the estate usually opens informally, without a hearing, and the court issues letters that give the personal representative legal authority to act.",
+        "Those letters are the key that unlocks everything: banks, brokerages, the county recorder, the DMV. Until they issue, family members generally cannot access accounts or sell anything, which is why 'get appointed properly' is step one, and why do-it-yourself shortcuts before appointment tend to cause problems later."
+      ]
+    },
+    {
+      "heading": "Chapter two: the working middle",
+      "paragraphs": [
+        "The middle chapter is where the real work lives, and it follows a fairly standard checklist. The personal representative acts as a fiduciary throughout — meaning careful records, no self-dealing, and even-handed treatment of beneficiaries — and Colorado builds in a minimum administration period so creditors have a fair opportunity to come forward before assets are distributed.",
+        "Most estates move through this chapter without court involvement. The stumbles we see are predictable: distributing money too early, missing a tax filing, or letting one beneficiary occupy the house rent-free while others wait. Each is avoidable with a little structure at the start."
+      ],
+      "bullets": [
+        "Notify heirs, beneficiaries, and known creditors, and publish notice for unknown ones",
+        "Inventory assets and get date-of-death values for accounts, real estate, and valuables",
+        "Manage the estate meanwhile — insurance, mortgage payments, securing the home",
+        "Pay valid debts, reject doubtful claims, and file the required tax returns",
+        "Keep records that can survive a beneficiary's questions later"
+      ]
+    },
+    {
+      "heading": "Chapter three: closing it down",
+      "paragraphs": [
+        "Once debts, expenses, and taxes are resolved, the personal representative distributes what remains according to the will — or Colorado's intestacy rules if there is none — and closes the estate. Most informal estates close with a sworn closing statement rather than a hearing; formal closing, with court approval of the accounting, is available when a representative wants the protection of a judge's sign-off.",
+        "If watching this process from the inside convinces you that your own family should never have to do it, that is a healthy reaction. The free Colorado Estate Snapshot at /estate-snapshot shows how much of your estate would go through probate today, and a free Legacy Game Plan Session can map the alternatives."
+      ]
+    }
+  ],
+  "localFacts": [
+    "Colorado probate is filed in the district court of the county where the decedent lived — except in Denver, which has its own dedicated probate court",
+    "The Colorado Judicial Branch publishes standardized JDF probate forms, which is part of why informal estates can proceed without a lawyer drafting every document",
+    "Colorado real estate held in the decedent's sole name is a probate asset even when everything else passes by beneficiary designation",
+    "Estates below Colorado's small-estate threshold (indexed annually) with no real estate can often skip this entire process using a collection affidavit"
+  ],
+  "faqs": [
+    {
+      "q": "Does the family have to appear in court?",
+      "a": "Usually not. Most Colorado estates proceed on the informal track, where appointment happens through a registrar and administration happens through filings, not hearings. Court appearances enter the picture when something is disputed — the validity of the will, who should serve, a contested creditor claim — or when the representative chooses formal, supervised administration for protection. For a cooperative family with a clear will, it is entirely normal to complete probate without anyone standing in front of a judge."
+    },
+    {
+      "q": "Who is allowed to start the probate process?",
+      "a": "Any interested person can begin, but Colorado law gives priority to the person nominated in the will, then to the surviving spouse and other close family. In practice, the nominated personal representative files the application along with the original will. If the person with priority delays for a long stretch or declines, others can step forward. Starting is often the hardest step emotionally — but until someone files, nobody has legal authority over the estate."
+    },
+    {
+      "q": "Can bills and the mortgage be paid before probate is opened?",
+      "a": "This is one of the most common early questions. Strictly, no one has authority over estate funds until a personal representative is appointed, which is a reason to open the estate promptly. Family members sometimes advance urgent costs — utilities, insurance, the mortgage — from their own funds and are reimbursed by the estate later, with receipts. What you should not do is use the decedent's cards or accounts directly, however practical it feels in the moment."
+    },
+    {
+      "q": "What if the will cannot be found?",
+      "a": "First, search properly: safe deposit boxes, the drafting attorney's office, home files, and with courts, since Colorado allows wills to be lodged for safekeeping. If only a copy exists, Colorado courts can sometimes admit it, but that requires a formal proceeding and evidence about what happened to the original. If no will ever surfaces, the estate proceeds under intestacy rules. A missing will is a solvable problem — but it is one to bring to counsel early rather than late."
+    },
+    {
+      "q": "When does probate become something you should not do alone?",
+      "a": "Watch for these signals: real estate in more than one state, a business or professional practice in the estate, sizable or disputed debts, blended-family dynamics, anyone hinting at a challenge, or an estate large enough to involve tax filings. Any one of them changes probate from paperwork into judgment calls with liability attached. A free Legacy Game Plan Session with our Colorado team can sort your situation into 'guided self-help' or 'genuine representation' honestly."
+    }
+  ],
+  "related": [
+    "colorado-probate-timeline",
+    "colorado-probate-costs",
+    "colorado-executor-duties",
+    "denver-probate-attorney",
+    "colorado-intestate-succession",
+    "what-happens-to-house-when-parent-dies-colorado"
+  ]
+}

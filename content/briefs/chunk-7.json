@@ -1,0 +1,112 @@
+[
+ {
+  "slug": "lakewood-estate-planning-attorney",
+  "keyword": "estate planning attorney lakewood co",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "Jeffco families; west-metro access"
+ },
+ {
+  "slug": "littleton-estate-planning-attorney",
+  "keyword": "estate planning attorney littleton co",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "south-metro families; Arapahoe/Douglas courts"
+ },
+ {
+  "slug": "highlands-ranch-estate-planning",
+  "keyword": "estate planning highlands ranch",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "family-dense suburb; guardianship focus"
+ },
+ {
+  "slug": "castle-rock-estate-planning-attorney",
+  "keyword": "estate planning castle rock co",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "Douglas county growth; new-wealth families"
+ },
+ {
+  "slug": "pueblo-estate-planning-attorney",
+  "keyword": "estate planning attorney pueblo co",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "southern Colorado access; legacy family property"
+ },
+ {
+  "slug": "grand-junction-estate-planning-attorney",
+  "keyword": "estate planning grand junction",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "Western Slope; agricultural and energy estates"
+ },
+ {
+  "slug": "greeley-estate-planning-attorney",
+  "keyword": "estate planning attorney greeley",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "Weld county; farm and energy families"
+ },
+ {
+  "slug": "broomfield-estate-planning-attorney",
+  "keyword": "estate planning broomfield co",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 2.7,
+  "angle": "north-metro tech corridor"
+ },
+ {
+  "slug": "longmont-estate-planning-attorney",
+  "keyword": "estate planning longmont co",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 2.7,
+  "angle": "Boulder county alternative; growing families"
+ },
+ {
+  "slug": "vail-estate-planning-attorney",
+  "keyword": "estate planning attorney vail colorado",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 10,
+  "opportunity": 3.3,
+  "angle": "resort wealth; second homes; out-of-state owners"
+ }
+]

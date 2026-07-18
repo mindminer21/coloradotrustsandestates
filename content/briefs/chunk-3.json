@@ -1,0 +1,112 @@
+[
+ {
+  "slug": "colorado-intestate-succession",
+  "keyword": "dying without a will in colorado",
+  "cluster": "probate",
+  "intent": "research",
+  "demand": 4,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 8,
+  "angle": "who inherits under Colorado defaults; blended-family surprises"
+ },
+ {
+  "slug": "colorado-probate-real-estate",
+  "keyword": "selling a house in probate colorado",
+  "cluster": "probate",
+  "intent": "research",
+  "demand": 3,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 6.8,
+  "angle": "title, PR deeds, timing; mountain and metro property"
+ },
+ {
+  "slug": "colorado-out-of-state-executor",
+  "keyword": "out of state executor colorado estate",
+  "cluster": "probate",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "serving from afar; the local-counsel role"
+ },
+ {
+  "slug": "denver-probate-litigation-attorney",
+  "keyword": "probate litigation attorney denver",
+  "cluster": "probate",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 5,
+  "value": 10,
+  "opportunity": 4,
+  "angle": "when administration turns adversarial"
+ },
+ {
+  "slug": "colorado-trust-litigation-attorney",
+  "keyword": "trust litigation attorney colorado",
+  "cluster": "dispute",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 6,
+  "value": 10,
+  "opportunity": 5,
+  "angle": "beneficiary rights; accountings; removal; the preparation thesis"
+ },
+ {
+  "slug": "colorado-will-contest-attorney",
+  "keyword": "will contest attorney colorado",
+  "cluster": "dispute",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 5,
+  "value": 10,
+  "opportunity": 6,
+  "angle": "grounds: capacity, undue influence, execution; contest windows"
+ },
+ {
+  "slug": "colorado-undue-influence-lawyer",
+  "keyword": "undue influence lawyer colorado",
+  "cluster": "dispute",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 4,
+  "value": 10,
+  "opportunity": 5,
+  "angle": "late-life document changes; isolation patterns; red-flags list"
+ },
+ {
+  "slug": "colorado-breach-of-fiduciary-duty-attorney",
+  "keyword": "breach of fiduciary duty trustee colorado",
+  "cluster": "dispute",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 5,
+  "value": 10,
+  "opportunity": 4,
+  "angle": "what duties trustees owe; removal and recovery paths"
+ },
+ {
+  "slug": "colorado-trustee-removal-attorney",
+  "keyword": "how to remove a trustee colorado",
+  "cluster": "dispute",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 4,
+  "value": 10,
+  "opportunity": 5,
+  "angle": "grounds and process; interim protections"
+ },
+ {
+  "slug": "colorado-inheritance-dispute-lawyer",
+  "keyword": "inheritance dispute lawyer colorado",
+  "cluster": "dispute",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 5,
+  "value": 10,
+  "opportunity": 6,
+  "angle": "family-conflict navigation; mediation vs litigation; contingency options"
+ }
+]

@@ -1,0 +1,21 @@
+# GHL Email Sequences — Whiteford Trusts & Estates Colorado
+### Trigger: tag `Colorado Trusts Estates Lead` · Same workflow mechanics as the PI build spec (waits 15min/1d/1d/1d/2d; exit on reply/booking/`do-not-sequence`; skip `client`; send window 7:00–20:00 MT)
+### Footer every email (required): *Attorney Advertising — Whiteford, 2128 W. 32nd Ave., Suite 200, Denver, CO 80211 · (720) 853-1579. General information, not legal or tax advice; no attorney-client relationship without written engagement. Prior results do not guarantee similar outcomes. [Unsubscribe]*
+
+## Email 1 — 15 min · Subj: "Your Estate Snapshot (and the part no quiz can see)"
+{{contact.first_name}}, thanks for using our Estate Snapshot. You now know more about where things stand than most Coloradans ever bother to learn. But here's what no questionnaire can see: **whether your assets are actually titled to match your plan.** The most common estate failure we see isn't a missing will — it's a good trust that was never funded, a beneficiary form from two jobs ago, a deed that puts a house on a collision course with the rest of the plan. Tomorrow: why the federal law change matters for plans written before 2026. — Jeff Schell · **Free Legacy Game Plan Session: (720) 853-1579**
+
+## Email 2 — 1d · Subj: "The 2026 reset most estate plans haven't caught up with"
+{{contact.first_name}}, federal estate law changed substantially — the exemption rose and was made permanent starting in 2026, and Colorado still has no state estate tax. Good news for most families. But plans written under the old rules often carry structures built for problems that no longer exist — and miss simpler, better options that now do. If your documents predate 2026 (or your last major life change), they deserve a rereading. That's literally what the free Legacy Game Plan Session is for: your document check, your exposure map, and a straight answer. — Jeff
+
+## Email 3 — 1d · Subj: "What settling an estate actually looks like"
+{{contact.first_name}}, when a family calls us after a death, the first thing we do is slow everything down and map three things: what documents exist, what deadlines are running, and who controls what. Colorado's probate system is more streamlined than most states — some estates skip court entirely — but the deadlines are real and some are short, especially once formal notices start arriving. If you're an executor, trustee, or family member in the middle of this: you don't have to learn this alone, and the first conversation is free. **Book: (720) 853-1579** — Eleanor, our intake assistant, can schedule you any hour. — Jeff
+
+## Email 4 — 1d · Subj: "When something about an estate feels wrong"
+{{contact.first_name}}, a hard truth from our fiduciary-litigation work: inheritance problems almost never announce themselves. They look like a trustee who stops returning calls. A late-life "update" to documents nobody knew about. A house quietly listed for sale. If any of this feels familiar, two things are worth knowing: beneficiaries have real information rights in Colorado — asking formally is protective, not hostile — and contest windows can be short. One unhurried conversation can tell you whether there's anything to worry about. Free, confidential: **(720) 853-1579**. — Jeff
+
+## Email 5 — 2d · Subj: "Whatever you decide, decide on purpose"
+{{contact.first_name}}, last note in this series. Estates are one of the few areas of law where doing nothing is itself a decision — Colorado's default rules will happily write your plan for you, and deadlines will happily run without you. Whether you plan with us, someone else, or handle the simple pieces yourself: please decide on purpose. The Legacy Game Plan Session is free, 30 minutes, and you leave with your documents checked, your exposures mapped, and a straight answer. Worst case, you confirm you're fine. **(720) 853-1579** — or book online anytime. Take care of your people. — Jeff
+
+## Weekly cadence starters
+1. The unfunded trust (a plan that failed by one deed) · 2. "The will can wait" — what intestacy actually does to blended families · 3. The trustee who went quiet — information rights, plainly · 4. The 2026 exemption explained like a neighbor would

@@ -1,0 +1,112 @@
+[
+ {
+  "slug": "colorado-trust-beneficiary-rights",
+  "keyword": "trust beneficiary rights colorado",
+  "cluster": "dispute",
+  "intent": "research",
+  "demand": 3,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 6.8,
+  "angle": "information and accounting rights; how to ask formally"
+ },
+ {
+  "slug": "colorado-executor-misconduct-attorney",
+  "keyword": "executor misconduct attorney colorado",
+  "cluster": "dispute",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 4,
+  "value": 10,
+  "opportunity": 5,
+  "angle": "self-dealing; delay; conversion; PR removal"
+ },
+ {
+  "slug": "colorado-poa-abuse-attorney",
+  "keyword": "power of attorney abuse colorado",
+  "cluster": "dispute",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 4,
+  "value": 10,
+  "opportunity": 5,
+  "angle": "caregiver and agent exploitation; recovery paths"
+ },
+ {
+  "slug": "colorado-elder-financial-exploitation-lawyer",
+  "keyword": "elder financial abuse attorney colorado",
+  "cluster": "dispute",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 4,
+  "value": 10,
+  "opportunity": 5,
+  "angle": "protections for at-risk adults generally; civil recovery"
+ },
+ {
+  "slug": "colorado-trust-accounting-demand",
+  "keyword": "demand trust accounting colorado",
+  "cluster": "dispute",
+  "intent": "research",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 6,
+  "angle": "the formal demand as first move; what accountings reveal"
+ },
+ {
+  "slug": "colorado-contest-a-trust",
+  "keyword": "can you contest a trust in colorado",
+  "cluster": "dispute",
+  "intent": "research",
+  "demand": 2,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 4.5,
+  "angle": "trust challenges vs will contests; standing; timing"
+ },
+ {
+  "slug": "colorado-missing-inheritance",
+  "keyword": "never received inheritance colorado",
+  "cluster": "dispute",
+  "intent": "research",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 6,
+  "angle": "tracing distributions; responses to stonewalling"
+ },
+ {
+  "slug": "colorado-sibling-estate-dispute",
+  "keyword": "sibling estate dispute colorado",
+  "cluster": "dispute",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 4.5,
+  "angle": "the most common fight; house buyouts; personal-property wars"
+ },
+ {
+  "slug": "colorado-stepparent-inheritance-dispute",
+  "keyword": "stepmother took inheritance colorado",
+  "cluster": "dispute",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 10,
+  "opportunity": 6.7,
+  "angle": "blended-family disputes; omitted-family issues generally"
+ },
+ {
+  "slug": "colorado-caregiver-undue-influence",
+  "keyword": "caregiver took estate colorado",
+  "cluster": "dispute",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 10,
+  "opportunity": 3.3,
+  "angle": "non-family caregiver capture; proof patterns"
+ }
+]

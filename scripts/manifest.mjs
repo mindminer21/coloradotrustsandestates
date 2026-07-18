@@ -1,0 +1,123 @@
+// 100 Colorado T&E keywords → docs/05-page-manifest.csv + content/briefs
+import fs from 'fs'; import path from 'path';
+
+const rows = [
+// [slug, keyword, cluster, intent, demand, difficulty, value, angle]
+["denver-estate-planning-attorney","denver estate planning attorney","planning","hire",8,7,10,"Highland-office local access; what a real plan includes beyond a will; 2026 exemption reset"],
+["colorado-estate-planning-attorney","colorado estate planning attorney","planning","hire",8,7,10,"statewide practice; clear quoted fees; national platform depth"],
+["denver-wills-attorney","wills attorney denver","planning","hire",5,6,9,"what a will does and doesn't do; guardianship for minors; execution formalities"],
+["colorado-wills-and-trusts-lawyer","wills and trusts lawyer colorado","planning","hire",5,6,9,"will vs trust decision framework; funding discipline"],
+["colorado-living-trust-attorney","living trust attorney colorado","planning","hire",6,6,10,"probate avoidance mechanics; funding the trust; successor trustee design"],
+["denver-living-trust-lawyer","denver living trust lawyer","planning","hire",4,5,9,"Denver real-estate titling into trusts; deed work"],
+["colorado-revocable-trust-attorney","revocable living trust colorado","planning","hire",4,5,9,"revocable vs irrevocable; control while living; incapacity backup"],
+["colorado-irrevocable-trust-attorney","irrevocable trust attorney colorado","planning","hire",3,5,9,"asset protection and tax uses; tradeoffs stated honestly"],
+["denver-family-trust-attorney","family trust attorney denver","planning","hire",3,5,9,"multigenerational design; distribution standards that prevent fights"],
+["colorado-asset-protection-attorney","asset protection attorney colorado","planning","hire",3,5,9,"legitimate protection tools vs fraudulent-transfer traps"],
+["colorado-power-of-attorney-lawyer","power of attorney lawyer colorado","planning","hire",4,4,8,"financial + medical POA; agent selection; abuse safeguards"],
+["colorado-advance-directive-attorney","living will colorado attorney","planning","hire",3,3,8,"advance directives, medical proxies, end-of-life clarity"],
+["denver-guardianship-attorney","guardianship attorney denver","planning","hire",3,4,8,"minor + adult guardianship; conservatorship; court process"],
+["colorado-beneficiary-designation-review","beneficiary designation mistakes colorado","planning","research",2,3,8,"the assets that skip your will; ex-spouse traps; retitling checklist"],
+["estate-planning-for-young-families-colorado","estate planning young families colorado","planning","hire",3,4,8,"guardianship naming; life insurance into trust; simple but real"],
+["estate-planning-for-blended-families-colorado","blended family estate planning colorado","planning","hire",3,4,9,"the default-rules problem for blended families; solutions in plain English"],
+["colorado-farm-ranch-succession-planning","ranch succession planning colorado","planning","hire",2,3,9,"land-rich estates; keeping the ranch in the family; liquidity for transitions"],
+["colorado-estate-planning-checklist","colorado estate planning checklist","planning","research",4,4,8,"actionable checklist that feeds the Snapshot"],
+["colorado-estate-plan-review","estate plan review colorado","planning","hire",2,3,9,"why pre-2026 plans need rereading; funding audit; the review appointment"],
+["digital-assets-estate-planning-colorado","digital assets estate planning colorado","planning","research",2,3,7,"crypto, accounts, passwords; fiduciary access to digital assets generally"],
+["denver-probate-attorney","denver probate attorney","probate","hire",7,7,10,"Denver probate court practicalities; executor guidance; timelines"],
+["colorado-probate-attorney","colorado probate lawyer","probate","hire",7,7,10,"informal vs formal probate; when counsel is actually needed"],
+["colorado-probate-process","how does probate work in colorado","probate","research",6,5,9,"step-by-step process; feeds consult for executors"],
+["colorado-small-estate-affidavit","small estate affidavit colorado","probate","research",4,4,8,"skipping probate for small estates; when it applies"],
+["colorado-executor-duties","executor duties colorado","probate","research",3,4,9,"personal representative obligations; liability exposure; when to get help"],
+["colorado-trust-administration-attorney","trust administration attorney colorado","probate","hire",3,5,10,"successor trustee duties; notices; accountings; distributions"],
+["denver-estate-administration-lawyer","estate administration lawyer denver","probate","hire",3,5,9,"the full administration arc; creditor claims; tax returns"],
+["colorado-probate-timeline","how long does probate take in colorado","probate","research",4,4,8,"realistic clocks by estate type; what slows it down"],
+["colorado-probate-costs","how much does probate cost in colorado","probate","research",4,4,8,"cost drivers; why trusts are often cheaper overall"],
+["colorado-ancillary-probate","ancillary probate colorado","probate","hire",2,3,8,"out-of-state families with Colorado property; mountain-home estates"],
+["colorado-intestate-succession","dying without a will in colorado","probate","research",4,4,8,"who inherits under Colorado defaults; blended-family surprises"],
+["colorado-probate-real-estate","selling a house in probate colorado","probate","research",3,4,9,"title, PR deeds, timing; mountain and metro property"],
+["colorado-out-of-state-executor","out of state executor colorado estate","probate","hire",2,3,8,"serving from afar; the local-counsel role"],
+["denver-probate-litigation-attorney","probate litigation attorney denver","probate","hire",2,5,10,"when administration turns adversarial"],
+["colorado-trust-litigation-attorney","trust litigation attorney colorado","dispute","hire",3,6,10,"beneficiary rights; accountings; removal; the preparation thesis"],
+["colorado-will-contest-attorney","will contest attorney colorado","dispute","hire",3,5,10,"grounds: capacity, undue influence, execution; contest windows"],
+["colorado-undue-influence-lawyer","undue influence lawyer colorado","dispute","hire",2,4,10,"late-life document changes; isolation patterns; red-flags list"],
+["colorado-breach-of-fiduciary-duty-attorney","breach of fiduciary duty trustee colorado","dispute","hire",2,5,10,"what duties trustees owe; removal and recovery paths"],
+["colorado-trustee-removal-attorney","how to remove a trustee colorado","dispute","hire",2,4,10,"grounds and process; interim protections"],
+["colorado-inheritance-dispute-lawyer","inheritance dispute lawyer colorado","dispute","hire",3,5,10,"family-conflict navigation; mediation vs litigation; contingency options"],
+["colorado-trust-beneficiary-rights","trust beneficiary rights colorado","dispute","research",3,4,9,"information and accounting rights; how to ask formally"],
+["colorado-executor-misconduct-attorney","executor misconduct attorney colorado","dispute","hire",2,4,10,"self-dealing; delay; conversion; PR removal"],
+["colorado-poa-abuse-attorney","power of attorney abuse colorado","dispute","hire",2,4,10,"caregiver and agent exploitation; recovery paths"],
+["colorado-elder-financial-exploitation-lawyer","elder financial abuse attorney colorado","dispute","hire",2,4,10,"protections for at-risk adults generally; civil recovery"],
+["colorado-trust-accounting-demand","demand trust accounting colorado","dispute","research",2,3,9,"the formal demand as first move; what accountings reveal"],
+["colorado-contest-a-trust","can you contest a trust in colorado","dispute","research",2,4,9,"trust challenges vs will contests; standing; timing"],
+["colorado-missing-inheritance","never received inheritance colorado","dispute","research",2,3,9,"tracing distributions; responses to stonewalling"],
+["colorado-sibling-estate-dispute","sibling estate dispute colorado","dispute","hire",2,4,9,"the most common fight; house buyouts; personal-property wars"],
+["colorado-stepparent-inheritance-dispute","stepmother took inheritance colorado","dispute","hire",2,3,10,"blended-family disputes; omitted-family issues generally"],
+["colorado-caregiver-undue-influence","caregiver took estate colorado","dispute","hire",1,3,10,"non-family caregiver capture; proof patterns"],
+["colorado-lost-will-lawyer","lost will colorado","dispute","research",1,3,8,"proving a lost will; copies; presumption issues"],
+["colorado-estate-property-title-dispute","estate property title dispute colorado","dispute","hire",1,3,9,"deeds signed late in life; joint-tenancy surprises"],
+["colorado-estate-tax-planning","estate tax planning colorado","tax","hire",3,5,10,"no state estate tax + the new federal exemption; who still needs planning"],
+["federal-estate-tax-exemption-2026","federal estate tax exemption 2026","tax","research",4,4,9,"the 2025 federal law change explained; why plans need rereading"],
+["colorado-gift-tax-planning","gift tax planning colorado","tax","hire",2,4,9,"annual exclusion; lifetime gifts; basis tradeoffs"],
+["colorado-generation-skipping-trust","generation skipping trust colorado","tax","hire",1,4,9,"dynasty planning concepts plainly"],
+["colorado-charitable-remainder-trust","charitable remainder trust colorado","tax","hire",1,4,9,"income + legacy + deduction; CRT mechanics simply"],
+["colorado-charitable-planning-attorney","charitable giving attorney colorado","tax","hire",1,3,8,"DAFs vs foundations vs CRTs; Colorado causes"],
+["colorado-business-succession-planning","business succession planning colorado","tax","hire",2,4,10,"buy-sell agreements; founder exits; family vs sale paths"],
+["colorado-special-needs-trust-attorney","special needs trust colorado","tax","hire",2,4,9,"protecting benefits eligibility; first- vs third-party SNTs"],
+["colorado-medicaid-planning-attorney","medicaid planning attorney colorado","tax","hire",2,4,9,"long-term-care costs; planning-ahead concepts; ethical framing"],
+["colorado-ilit-attorney","irrevocable life insurance trust colorado","tax","hire",1,3,8,"keeping insurance out of the estate; when ILITs still matter"],
+["colorado-qprt-attorney","qualified personal residence trust colorado","tax","hire",1,3,8,"mountain-home QPRTs; discount mechanics simply"],
+["colorado-nonresident-alien-estate-planning","estate planning non citizens colorado","tax","hire",1,3,9,"non-citizen spouse issues generally; global families"],
+["colorado-retirement-account-trust","retirement account trust colorado","tax","hire",1,3,8,"modern IRA planning generally; trusts as beneficiaries"],
+["colorado-springs-estate-planning-attorney","colorado springs estate planning attorney","metro","hire",4,5,9,"military families; deployment-aware planning"],
+["colorado-springs-probate-attorney","probate attorney colorado springs","metro","hire",3,5,9,"El Paso county probate; local access"],
+["boulder-estate-planning-attorney","boulder estate planning attorney","metro","hire",3,5,9,"tech wealth; equity compensation in estates; charitable leanings"],
+["fort-collins-estate-planning-attorney","fort collins estate planning attorney","metro","hire",3,4,9,"NoCo families; farm-adjacent estates"],
+["aurora-estate-planning-attorney","estate planning attorney aurora co","metro","hire",2,4,8,"diverse families; accessible planning"],
+["lakewood-estate-planning-attorney","estate planning attorney lakewood co","metro","hire",2,3,8,"Jeffco families; west-metro access"],
+["littleton-estate-planning-attorney","estate planning attorney littleton co","metro","hire",2,3,8,"south-metro families; Arapahoe/Douglas courts"],
+["highlands-ranch-estate-planning","estate planning highlands ranch","metro","hire",2,3,8,"family-dense suburb; guardianship focus"],
+["castle-rock-estate-planning-attorney","estate planning castle rock co","metro","hire",2,3,8,"Douglas county growth; new-wealth families"],
+["pueblo-estate-planning-attorney","estate planning attorney pueblo co","metro","hire",2,3,8,"southern Colorado access; legacy family property"],
+["grand-junction-estate-planning-attorney","estate planning grand junction","metro","hire",2,3,8,"Western Slope; agricultural and energy estates"],
+["greeley-estate-planning-attorney","estate planning attorney greeley","metro","hire",2,3,8,"Weld county; farm and energy families"],
+["broomfield-estate-planning-attorney","estate planning broomfield co","metro","hire",1,3,8,"north-metro tech corridor"],
+["longmont-estate-planning-attorney","estate planning longmont co","metro","hire",1,3,8,"Boulder county alternative; growing families"],
+["vail-estate-planning-attorney","estate planning attorney vail colorado","metro","hire",1,3,10,"resort wealth; second homes; out-of-state owners"],
+["aspen-estate-planning-attorney","aspen estate planning attorney","metro","hire",1,3,10,"high-net-worth resort estates; multi-state planning"],
+["summit-county-estate-planning","estate planning summit county colorado","metro","hire",1,3,9,"mountain-home titling; short-term-rental assets"],
+["denver-probate-court-guide","denver probate court","metro","research",2,3,8,"navigating Denver's dedicated probate court; practical guide"],
+["how-much-does-estate-planning-cost-colorado","how much does estate planning cost colorado","value","tool",4,4,9,"honest cost framing; quoted-fee philosophy; the cost of not planning"],
+["do-i-need-a-trust-colorado","do i need a trust in colorado","value","tool",4,4,9,"decision framework; feeds the Snapshot"],
+["will-vs-trust-colorado","will vs trust colorado","value","tool",4,4,9,"the honest comparison; when a will is enough"],
+["diy-will-vs-attorney-colorado","is a diy will valid in colorado","value","tool",3,3,8,"what DIY misses; execution and funding failures; when DIY is genuinely fine"],
+["how-to-avoid-probate-colorado","how to avoid probate in colorado","value","tool",4,4,9,"beneficiary deeds, trusts, designations; tradeoffs"],
+["colorado-beneficiary-deed","beneficiary deed colorado","value","research",3,3,8,"Colorado's transfer-on-death deed; when it's enough and when it backfires"],
+["what-happens-to-house-when-parent-dies-colorado","what happens to house when parent dies colorado","value","tool",3,3,9,"title paths; probate vs deed vs trust; sibling co-ownership"],
+["how-to-contest-a-will-colorado-cost","cost to contest a will colorado","value","tool",2,3,9,"dispute economics; contingency options; realistic expectations"],
+["trustee-not-communicating-colorado","trustee won't communicate colorado","value","tool",2,3,9,"the escalation ladder; formal demands; feeds dispute intake"],
+["colorado-inheritance-tax","does colorado have inheritance tax","value","research",4,3,8,"no Colorado estate or inheritance tax; the federal picture; common confusions"],
+["estate-planning-after-divorce-colorado","estate planning after divorce colorado","value","tool",2,3,8,"beneficiary cleanup; the documents that don't auto-update"],
+["when-to-update-estate-plan-colorado","when to update estate plan","value","tool",2,3,8,"trigger events; the 2026 law reset; review cadence"],
+["colorado-uniform-trust-code","colorado uniform trust code explained","law","research",1,3,8,"the Colorado UTC landscape generally; beneficiary information rights"],
+["colorado-probate-code-basics","colorado probate code basics","law","research",1,3,8,"UPC structure; informal vs formal; supervised administration"],
+["colorado-elective-share","spousal elective share colorado","law","research",1,3,9,"surviving-spouse protections generally; disinherited-spouse scenarios"],
+["colorado-slayer-statute","colorado slayer rule inheritance","law","research",1,2,7,"forfeiture concepts; rare but searched; expertise signal"],
+["colorado-trust-decanting","trust decanting colorado","law","research",1,3,8,"fixing broken irrevocable trusts; modification paths generally"],
+];
+
+if (rows.length !== 100) { console.error(`ROW COUNT ${rows.length} != 100`); process.exit(1); }
+const slugs = new Set(rows.map(r=>r[0])); if (slugs.size!==100){console.error("dup slugs");process.exit(1);}
+
+const csv = ["slug,keyword,cluster,intent,demand,difficulty,value,opportunity,status,angle"];
+const briefs = [];
+for (const [slug,kw,cluster,intent,d,kd,v,angle] of rows) {
+  const opp = Math.round((v*d/kd)*10)/10;
+  csv.push([slug,`"${kw}"`,cluster,intent,d,kd,v,opp,"planned",`"${angle.replace(/"/g,"'")}"`].join(","));
+  briefs.push({slug,keyword:kw,cluster,intent,demand:d,difficulty:kd,value:v,opportunity:opp,angle});
+}
+fs.mkdirSync(path.join(import.meta.dirname,"../docs"),{recursive:true});
+fs.mkdirSync(path.join(import.meta.dirname,"../content/briefs"),{recursive:true});
+fs.writeFileSync(path.join(import.meta.dirname,"../docs/05-page-manifest.csv"), csv.join("\n"));
+fs.writeFileSync(path.join(import.meta.dirname,"../content/briefs/all-briefs.json"), JSON.stringify(briefs,null,1));
+fs.writeFileSync(path.join(import.meta.dirname,"../content/briefs/all-slugs.json"), JSON.stringify(briefs.map(x=>({slug:x.slug,keyword:x.keyword,cluster:x.cluster}))));
+console.log("manifest:", briefs.length, "pages; clusters:", [...new Set(briefs.map(b=>b.cluster))].join(","));

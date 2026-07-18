@@ -1,0 +1,112 @@
+[
+ {
+  "slug": "colorado-power-of-attorney-lawyer",
+  "keyword": "power of attorney lawyer colorado",
+  "cluster": "planning",
+  "intent": "hire",
+  "demand": 4,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 8,
+  "angle": "financial + medical POA; agent selection; abuse safeguards"
+ },
+ {
+  "slug": "colorado-advance-directive-attorney",
+  "keyword": "living will colorado attorney",
+  "cluster": "planning",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 8,
+  "angle": "advance directives, medical proxies, end-of-life clarity"
+ },
+ {
+  "slug": "denver-guardianship-attorney",
+  "keyword": "guardianship attorney denver",
+  "cluster": "planning",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 6,
+  "angle": "minor + adult guardianship; conservatorship; court process"
+ },
+ {
+  "slug": "colorado-beneficiary-designation-review",
+  "keyword": "beneficiary designation mistakes colorado",
+  "cluster": "planning",
+  "intent": "research",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "the assets that skip your will; ex-spouse traps; retitling checklist"
+ },
+ {
+  "slug": "estate-planning-for-young-families-colorado",
+  "keyword": "estate planning young families colorado",
+  "cluster": "planning",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 6,
+  "angle": "guardianship naming; life insurance into trust; simple but real"
+ },
+ {
+  "slug": "estate-planning-for-blended-families-colorado",
+  "keyword": "blended family estate planning colorado",
+  "cluster": "planning",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 6.8,
+  "angle": "the default-rules problem for blended families; solutions in plain English"
+ },
+ {
+  "slug": "colorado-farm-ranch-succession-planning",
+  "keyword": "ranch succession planning colorado",
+  "cluster": "planning",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 6,
+  "angle": "land-rich estates; keeping the ranch in the family; liquidity for transitions"
+ },
+ {
+  "slug": "colorado-estate-planning-checklist",
+  "keyword": "colorado estate planning checklist",
+  "cluster": "planning",
+  "intent": "research",
+  "demand": 4,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 8,
+  "angle": "actionable checklist that feeds the Snapshot"
+ },
+ {
+  "slug": "colorado-estate-plan-review",
+  "keyword": "estate plan review colorado",
+  "cluster": "planning",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 6,
+  "angle": "why pre-2026 plans need rereading; funding audit; the review appointment"
+ },
+ {
+  "slug": "digital-assets-estate-planning-colorado",
+  "keyword": "digital assets estate planning colorado",
+  "cluster": "planning",
+  "intent": "research",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 7,
+  "opportunity": 4.7,
+  "angle": "crypto, accounts, passwords; fiduciary access to digital assets generally"
+ }
+]

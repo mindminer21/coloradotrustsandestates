@@ -1,0 +1,112 @@
+[
+ {
+  "slug": "denver-probate-attorney",
+  "keyword": "denver probate attorney",
+  "cluster": "probate",
+  "intent": "hire",
+  "demand": 7,
+  "difficulty": 7,
+  "value": 10,
+  "opportunity": 10,
+  "angle": "Denver probate court practicalities; executor guidance; timelines"
+ },
+ {
+  "slug": "colorado-probate-attorney",
+  "keyword": "colorado probate lawyer",
+  "cluster": "probate",
+  "intent": "hire",
+  "demand": 7,
+  "difficulty": 7,
+  "value": 10,
+  "opportunity": 10,
+  "angle": "informal vs formal probate; when counsel is actually needed"
+ },
+ {
+  "slug": "colorado-probate-process",
+  "keyword": "how does probate work in colorado",
+  "cluster": "probate",
+  "intent": "research",
+  "demand": 6,
+  "difficulty": 5,
+  "value": 9,
+  "opportunity": 10.8,
+  "angle": "step-by-step process; feeds consult for executors"
+ },
+ {
+  "slug": "colorado-small-estate-affidavit",
+  "keyword": "small estate affidavit colorado",
+  "cluster": "probate",
+  "intent": "research",
+  "demand": 4,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 8,
+  "angle": "skipping probate for small estates; when it applies"
+ },
+ {
+  "slug": "colorado-executor-duties",
+  "keyword": "executor duties colorado",
+  "cluster": "probate",
+  "intent": "research",
+  "demand": 3,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 6.8,
+  "angle": "personal representative obligations; liability exposure; when to get help"
+ },
+ {
+  "slug": "colorado-trust-administration-attorney",
+  "keyword": "trust administration attorney colorado",
+  "cluster": "probate",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 5,
+  "value": 10,
+  "opportunity": 6,
+  "angle": "successor trustee duties; notices; accountings; distributions"
+ },
+ {
+  "slug": "denver-estate-administration-lawyer",
+  "keyword": "estate administration lawyer denver",
+  "cluster": "probate",
+  "intent": "hire",
+  "demand": 3,
+  "difficulty": 5,
+  "value": 9,
+  "opportunity": 5.4,
+  "angle": "the full administration arc; creditor claims; tax returns"
+ },
+ {
+  "slug": "colorado-probate-timeline",
+  "keyword": "how long does probate take in colorado",
+  "cluster": "probate",
+  "intent": "research",
+  "demand": 4,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 8,
+  "angle": "realistic clocks by estate type; what slows it down"
+ },
+ {
+  "slug": "colorado-probate-costs",
+  "keyword": "how much does probate cost in colorado",
+  "cluster": "probate",
+  "intent": "research",
+  "demand": 4,
+  "difficulty": 4,
+  "value": 8,
+  "opportunity": 8,
+  "angle": "cost drivers; why trusts are often cheaper overall"
+ },
+ {
+  "slug": "colorado-ancillary-probate",
+  "keyword": "ancillary probate colorado",
+  "cluster": "probate",
+  "intent": "hire",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "out-of-state families with Colorado property; mountain-home estates"
+ }
+]

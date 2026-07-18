@@ -1,0 +1,75 @@
+{
+  "slug": "colorado-inheritance-tax",
+  "keyword": "does colorado have inheritance tax",
+  "cluster": "value",
+  "title": "Does Colorado Have an Inheritance Tax? | Whiteford",
+  "metaDescription": "Colorado has no inheritance or estate tax — but federal rules and a few common confusions still matter. Get the plain-English picture, or call (720) 853-1579.",
+  "h1": "Does Colorado Have an Inheritance Tax?",
+  "heroSub": "Short answer: no — Colorado imposes no inheritance tax and no state estate tax. The longer answer is about the federal rules and the handful of situations where taxes still touch an inheritance.",
+  "heroEyebrow": "Colorado Tax Basics",
+  "intro": [
+    "It's often the first question a family asks after a loss, usually in a worried tone: 'How much of this is the state going to take?' In Colorado, the answer brings genuine relief — there is no Colorado inheritance tax, and no Colorado estate tax either. Money and property you inherit from a Colorado estate arrive without the state claiming a share off the top.",
+    "That clean answer, though, sits inside a more complicated picture. The federal estate tax still exists for the largest estates, a few other states do tax inheritances in ways that can reach across borders, and certain inherited assets — retirement accounts especially — carry income tax consequences that surprise people every year. Whiteford's Colorado team, part of a Chambers-ranked national trusts and estates platform, spends a lot of time untangling exactly these confusions.",
+    "This page gives you the plain-English map: what Colorado doesn't tax, what the federal government might, and the common mix-ups that lead families to either needless worry or expensive surprises."
+  ],
+  "sections": [
+    {
+      "heading": "What 'no inheritance tax' actually means in Colorado",
+      "paragraphs": [
+        "An inheritance tax, where it exists, is paid by the person receiving assets, with rates that often depend on how closely related you were to the person who died. An estate tax is different — it's paid by the estate itself before anything is distributed. Colorado imposes neither. Whether you inherit a bank account from a parent, a house from an aunt, or a bequest from a friend, Colorado does not tax the transfer.",
+        "This also means there's no Colorado tax return to file just because you inherited, and no state waiting period tied to tax clearance. The estate still goes through its normal administration — probate or trust settlement, debts, expenses — but a state tax bill is simply not part of the process. Families who moved here from states that do tax inheritances are often braced for a hit that never comes."
+      ]
+    },
+    {
+      "heading": "The federal picture — and why 2026 matters",
+      "paragraphs": [
+        "The federal estate tax applies only to estates above a substantial exemption amount, which means the overwhelming majority of Colorado families will never owe it. For wealthier households, though, the rules deserve real attention right now: the 2026 federal exemption changes reset the landscape that many older estate plans were built on, and plans drafted under prior assumptions — especially those with formula-driven trust provisions — can behave in unexpected ways if they aren't reviewed.",
+        "Federal law also offers meaningful tools for married couples, including the ability to preserve a deceased spouse's unused exemption for later use, and lifetime strategies that move growth out of a taxable estate. None of this is one-size-fits-all, and this page can only sketch concepts — the attorney will tailor the approach to your actual balance sheet. A useful first step is the free Colorado Estate Snapshot at /estate-snapshot, which flags whether the federal rules are even relevant to your situation."
+      ]
+    },
+    {
+      "heading": "The confusions that actually cost people money",
+      "paragraphs": [
+        "Most inheritance-tax anxiety in Colorado is misplaced — but a few real tax issues hide behind the reassuring headline, and they're where families get hurt. The pattern we see most often involves inherited retirement accounts: beneficiaries treat an inherited IRA like an inheritance of cash, withdraw it casually, and discover the withdrawals are ordinary income on their own returns, sometimes pushed into higher brackets by poor timing.",
+        "The other recurring themes are worth naming plainly, because each one is avoidable with a little foresight."
+      ],
+      "bullets": [
+        "Inherited traditional retirement accounts are generally subject to income tax as funds come out, and the withdrawal rules for beneficiaries have tightened in recent years",
+        "Inherited property typically receives a step-up in basis, which can dramatically reduce capital gains tax if it's handled — and documented — correctly",
+        "A relative who lived in, or owned property in, a state with its own inheritance or estate tax can create a tax bill even for a Colorado beneficiary",
+        "Receiving a gift during someone's life follows different rules than inheriting at death — the two are often confused, sometimes expensively",
+        "'The estate pays the taxes' is only sometimes true; who bears which tax depends on the documents and the asset type"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I pay taxes on money I inherit in Colorado?",
+      "a": "Generally, no. Colorado has no inheritance tax, and an inheritance is not treated as income on your federal or Colorado income tax return. The main exceptions involve what the inherited asset does after you receive it: withdrawals from inherited traditional retirement accounts are taxable income, and selling inherited property can trigger capital gains tax on appreciation after the date of death. The inheritance itself, though — cash, a house, investments — arrives without a Colorado tax bill."
+    },
+    {
+      "q": "Does Colorado have an estate tax?",
+      "a": "No. Colorado imposes no state estate tax, so the estate itself owes nothing to Colorado regardless of size. Only the federal estate tax can apply, and only to estates above the federal exemption — a level most families never approach. For larger estates, the 2026 federal exemption changes make this a good moment for a professional review, because planning built under older assumptions may no longer do what it was designed to do."
+    },
+    {
+      "q": "My relative died in another state. Could I still owe inheritance tax?",
+      "a": "Possibly — this is the most common way Colorado residents end up touched by these taxes. A handful of states impose inheritance or estate taxes, and what matters is generally where the person who died lived or where their real estate sits, not where you live. So a Colorado beneficiary inheriting from a relative in one of those states can face a tax bill or at least a filing. If the estate spans state lines, it's worth having counsel confirm what applies before assets are distributed."
+    },
+    {
+      "q": "Do I need to report an inheritance to the IRS or Colorado?",
+      "a": "Simply receiving an inheritance generally doesn't create a filing requirement for you. The estate may have its own filings — a final income tax return for the person who died, an income tax return for the estate itself, and a federal estate tax return for the largest estates — but those are the personal representative's responsibility. Where reporting touches you personally is downstream: income from inherited assets, retirement account withdrawals, and gains when you sell what you inherited."
+    },
+    {
+      "q": "If Colorado doesn't tax inheritances, do I still need estate planning?",
+      "a": "Yes — and this is the most important reframe on this page. Taxes were never the main reason most Colorado families plan. A good estate plan controls who inherits and when, keeps your family out of avoidable court proceedings, protects children and beneficiaries with special circumstances, names people to act if you're incapacitated, and prevents the disputes that quietly consume far more money than taxes ever would. The free Legacy Game Plan Session is an easy way to see what planning would actually do for your family."
+    }
+  ],
+  "related": [
+    "colorado-estate-tax-planning",
+    "federal-estate-tax-exemption-2026",
+    "colorado-gift-tax-planning",
+    "colorado-probate-costs",
+    "when-to-update-estate-plan-colorado",
+    "will-vs-trust-colorado"
+  ]
+}

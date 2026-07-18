@@ -1,0 +1,112 @@
+[
+ {
+  "slug": "aspen-estate-planning-attorney",
+  "keyword": "aspen estate planning attorney",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 10,
+  "opportunity": 3.3,
+  "angle": "high-net-worth resort estates; multi-state planning"
+ },
+ {
+  "slug": "summit-county-estate-planning",
+  "keyword": "estate planning summit county colorado",
+  "cluster": "metro",
+  "intent": "hire",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 3,
+  "angle": "mountain-home titling; short-term-rental assets"
+ },
+ {
+  "slug": "denver-probate-court-guide",
+  "keyword": "denver probate court",
+  "cluster": "metro",
+  "intent": "research",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "navigating Denver's dedicated probate court; practical guide"
+ },
+ {
+  "slug": "how-much-does-estate-planning-cost-colorado",
+  "keyword": "how much does estate planning cost colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 4,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 9,
+  "angle": "honest cost framing; quoted-fee philosophy; the cost of not planning"
+ },
+ {
+  "slug": "do-i-need-a-trust-colorado",
+  "keyword": "do i need a trust in colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 4,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 9,
+  "angle": "decision framework; feeds the Snapshot"
+ },
+ {
+  "slug": "will-vs-trust-colorado",
+  "keyword": "will vs trust colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 4,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 9,
+  "angle": "the honest comparison; when a will is enough"
+ },
+ {
+  "slug": "diy-will-vs-attorney-colorado",
+  "keyword": "is a diy will valid in colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 3,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 8,
+  "angle": "what DIY misses; execution and funding failures; when DIY is genuinely fine"
+ },
+ {
+  "slug": "how-to-avoid-probate-colorado",
+  "keyword": "how to avoid probate in colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 4,
+  "difficulty": 4,
+  "value": 9,
+  "opportunity": 9,
+  "angle": "beneficiary deeds, trusts, designations; tradeoffs"
+ },
+ {
+  "slug": "colorado-beneficiary-deed",
+  "keyword": "beneficiary deed colorado",
+  "cluster": "value",
+  "intent": "research",
+  "demand": 3,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 8,
+  "angle": "Colorado's transfer-on-death deed; when it's enough and when it backfires"
+ },
+ {
+  "slug": "what-happens-to-house-when-parent-dies-colorado",
+  "keyword": "what happens to house when parent dies colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 3,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 9,
+  "angle": "title paths; probate vs deed vs trust; sibling co-ownership"
+ }
+]

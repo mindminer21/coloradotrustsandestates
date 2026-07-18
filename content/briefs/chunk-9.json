@@ -1,0 +1,112 @@
+[
+ {
+  "slug": "how-to-contest-a-will-colorado-cost",
+  "keyword": "cost to contest a will colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 6,
+  "angle": "dispute economics; contingency options; realistic expectations"
+ },
+ {
+  "slug": "trustee-not-communicating-colorado",
+  "keyword": "trustee won't communicate colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 6,
+  "angle": "the escalation ladder; formal demands; feeds dispute intake"
+ },
+ {
+  "slug": "colorado-inheritance-tax",
+  "keyword": "does colorado have inheritance tax",
+  "cluster": "value",
+  "intent": "research",
+  "demand": 4,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 10.7,
+  "angle": "no Colorado estate or inheritance tax; the federal picture; common confusions"
+ },
+ {
+  "slug": "estate-planning-after-divorce-colorado",
+  "keyword": "estate planning after divorce colorado",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "beneficiary cleanup; the documents that don't auto-update"
+ },
+ {
+  "slug": "when-to-update-estate-plan-colorado",
+  "keyword": "when to update estate plan",
+  "cluster": "value",
+  "intent": "tool",
+  "demand": 2,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 5.3,
+  "angle": "trigger events; the 2026 law reset; review cadence"
+ },
+ {
+  "slug": "colorado-uniform-trust-code",
+  "keyword": "colorado uniform trust code explained",
+  "cluster": "law",
+  "intent": "research",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 2.7,
+  "angle": "the Colorado UTC landscape generally; beneficiary information rights"
+ },
+ {
+  "slug": "colorado-probate-code-basics",
+  "keyword": "colorado probate code basics",
+  "cluster": "law",
+  "intent": "research",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 2.7,
+  "angle": "UPC structure; informal vs formal; supervised administration"
+ },
+ {
+  "slug": "colorado-elective-share",
+  "keyword": "spousal elective share colorado",
+  "cluster": "law",
+  "intent": "research",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 9,
+  "opportunity": 3,
+  "angle": "surviving-spouse protections generally; disinherited-spouse scenarios"
+ },
+ {
+  "slug": "colorado-slayer-statute",
+  "keyword": "colorado slayer rule inheritance",
+  "cluster": "law",
+  "intent": "research",
+  "demand": 1,
+  "difficulty": 2,
+  "value": 7,
+  "opportunity": 3.5,
+  "angle": "forfeiture concepts; rare but searched; expertise signal"
+ },
+ {
+  "slug": "colorado-trust-decanting",
+  "keyword": "trust decanting colorado",
+  "cluster": "law",
+  "intent": "research",
+  "demand": 1,
+  "difficulty": 3,
+  "value": 8,
+  "opportunity": 2.7,
+  "angle": "fixing broken irrevocable trusts; modification paths generally"
+ }
+]
