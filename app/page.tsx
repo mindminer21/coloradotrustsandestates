@@ -35,7 +35,7 @@ export default function HomePage() {
       <AnimatedHero
         eyebrow="Denver · Whiteford Trusts & Estates"
         h1="The federal estate law changed in 2026. Most Colorado estate plans haven't."
-        sub="Whiteford pairs Denver-based counsel with a Chambers-ranked national trusts and estates platform — for Colorado families planning ahead, settling an estate, or facing an inheritance that isn't being handled right."
+        sub="Whiteford integrates face-to-face Colorado lawyers with a Chambers-ranked national trusts and estates platform — for Colorado families planning ahead, settling an estate, or facing an inheritance that isn't being handled right."
       />
       <TrustBar />
 
