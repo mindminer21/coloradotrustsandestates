@@ -5,7 +5,7 @@ import Image from "next/image";
 import { SITE } from "@/lib/site";
 
 const NAV = [
-  { href: "/estate-planning", label: "Estate Planning" },
+  { href: "/denver-estate-planning-attorney", label: "Estate Planning" },
   { href: "/practice-areas", label: "All Services" },
   { href: "/estate-snapshot", label: "Estate Snapshot" },
   { href: "/about", label: "Our Attorneys" },
