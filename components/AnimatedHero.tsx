@@ -82,7 +82,7 @@ export default function AnimatedHero({
             Call {SITE.phone} — answered 24/7
           </a>
         </div>
-        <p className="mt-5 text-sm font-medium text-gold-soft/90">{SITE.offers.guarantee}<span className="ml-2 text-xs font-normal text-white/45">Contingency representation for injury cases.</span></p>
+        <p className="mt-5 text-sm font-medium text-gold-soft/90">{SITE.offers.guarantee}</p>
       </div>
     </section>
   );

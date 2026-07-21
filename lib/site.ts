@@ -23,7 +23,7 @@ export const SITE = {
         { t: "Your next-three-steps memo", d: "The specific documents to gather or actions to take, in order, whatever you decide about hiring us." },
       ],
     },
-    guarantee: "Clear, quoted fees for planning — and contingency options for inheritance disputes where appropriate.",
+    guarantee: "Clear, quoted fees for planning — set in writing before any work begins.",
     guaranteeNote: "Every engagement starts with a written scope and fee agreement. No surprises, no hourly mystery bills for planning work.",
   },
   disclaimerShort:

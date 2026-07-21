@@ -2,7 +2,7 @@ import Reveal from "./Reveal";
 
 const ITEMS = [
   { k: "Free", v: "consultations — a straight answer before any engagement" },
-  { k: "Clear fees", v: "— quoted planning fees in writing; contingency options for disputes where appropriate" },
+  { k: "Clear fees", v: "— quoted planning fees in writing, agreed before any work begins" },
   { k: "Denver", v: "based, with Whiteford's national trusts & estates platform (ACTEC fellows, Chambers-ranked)" },
   { k: "24/7", v: "intake — a real conversation and a booked consultation, any hour" },
 ];
