@@ -7,7 +7,7 @@ import { SITE } from "@/lib/site";
 export const metadata: Metadata = {
   title: "Our Attorneys | Whiteford Trusts & Estates — Colorado",
   description:
-    "Meet the team: Colorado-based Managing Director Jeffrey Schell with Peter Antonoplos, Co-Chair of Whiteford's Chambers-ranked Trusts & Estates practice.",
+    "Meet the team: Colorado-based Managing Partner Jeffrey Schell with Peter Antonoplos, Co-Chair of Whiteford's Chambers-ranked Trusts & Estates practice.",
   alternates: { canonical: "/about" },
 };
 

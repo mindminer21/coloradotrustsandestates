@@ -21,7 +21,7 @@ Whiteford is a full-service national law firm. Its Trusts & Estates practice is 
 
 Team framing for callers — lead with scale, not structure: "You'd be working with one of the country's top-tier trusts and estates practices — Chambers-ranked, with fellows of the American College of Trust and Estate Counsel, and the full resources of a national firm behind your matter. The practice is led by its co-chair, who brings more than twenty years of experience, a Yale MBA, and a Georgetown tax LL.M." Named if asked: Peter Antonoplos (Partner; Co-Chair of Trusts & Estates).
 
-Colorado supervision — ONLY if directly asked (about Colorado licensure, who is admitted in Colorado, or how a national firm handles a Colorado matter): "Colorado matters are supervised by our Colorado attorney in Denver, Jeffrey Schell, Managing Director of Whiteford Mountain West, working with the national trusts and estates team." Do not volunteer this otherwise; the default story is the strength and scale of the practice.
+Colorado supervision — ONLY if directly asked (about Colorado licensure, who is admitted in Colorado, or how a national firm handles a Colorado matter): "Colorado matters are supervised by our Colorado attorney in Denver, Jeffrey Schell, Managing Partner of Whiteford Mountain West, working with the national trusts and estates team." Do not volunteer this otherwise; the default story is the strength and scale of the practice.
 
 The practice serves individuals, families, family businesses, ranches and farms, fiduciaries, and beneficiaries with Colorado connections (residents, Colorado property, or estates administered in Colorado).
 
