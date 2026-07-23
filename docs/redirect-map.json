@@ -1,0 +1,502 @@
+[
+  {
+    "source": "/aspen-estate-planning-attorney",
+    "destination": "/aspen/estate-planning-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/aurora-estate-planning-attorney",
+    "destination": "/aurora/estate-planning-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/boulder-estate-planning-attorney",
+    "destination": "/boulder/estate-planning-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/broomfield-estate-planning-attorney",
+    "destination": "/broomfield/estate-planning-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/castle-rock-estate-planning-attorney",
+    "destination": "/castle-rock/estate-planning-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-advance-directive-attorney",
+    "destination": "/advance-directive/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-ancillary-probate",
+    "destination": "/ancillary-probate/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-asset-protection-attorney",
+    "destination": "/asset-protection/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-beneficiary-deed",
+    "destination": "/beneficiary-deed/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-beneficiary-designation-review",
+    "destination": "/beneficiary-designation-review/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-breach-of-fiduciary-duty-attorney",
+    "destination": "/breach-of-fiduciary-duty/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-business-succession-planning",
+    "destination": "/business-succession/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-caregiver-undue-influence",
+    "destination": "/caregiver-undue-influence/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-charitable-planning-attorney",
+    "destination": "/charitable-planning/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-charitable-remainder-trust",
+    "destination": "/charitable-remainder-trust/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-contest-a-trust",
+    "destination": "/contest-a-trust/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-elder-financial-exploitation-lawyer",
+    "destination": "/elder-financial-exploitation/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-elective-share",
+    "destination": "/elective-share/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-estate-plan-review",
+    "destination": "/estate-plan-review/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-estate-planning-attorney",
+    "destination": "/estate-planning/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-estate-planning-checklist",
+    "destination": "/estate-planning-checklist/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-estate-property-title-dispute",
+    "destination": "/estate-property-title-dispute/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-estate-tax-planning",
+    "destination": "/estate-tax-planning/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-executor-duties",
+    "destination": "/executor-duties/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-executor-misconduct-attorney",
+    "destination": "/executor-misconduct/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-farm-ranch-succession-planning",
+    "destination": "/farm-ranch-succession-planning/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-generation-skipping-trust",
+    "destination": "/generation-skipping-trust/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-gift-tax-planning",
+    "destination": "/gift-tax-planning/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-ilit-attorney",
+    "destination": "/ilit/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-inheritance-dispute-lawyer",
+    "destination": "/inheritance-disputes/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-inheritance-tax",
+    "destination": "/inheritance-tax/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-intestate-succession",
+    "destination": "/intestate-succession/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-irrevocable-trust-attorney",
+    "destination": "/irrevocable-trust/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-living-trust-attorney",
+    "destination": "/living-trusts/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-lost-will-lawyer",
+    "destination": "/lost-will/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-medicaid-planning-attorney",
+    "destination": "/medicaid-planning/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-missing-inheritance",
+    "destination": "/missing-inheritance/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-nonresident-alien-estate-planning",
+    "destination": "/nonresident-alien-estate-planning/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-out-of-state-executor",
+    "destination": "/out-of-state-executor/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-poa-abuse-attorney",
+    "destination": "/poa-abuse/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-power-of-attorney-lawyer",
+    "destination": "/power-of-attorney/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-probate-attorney",
+    "destination": "/probate/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-probate-code-basics",
+    "destination": "/probate-code-basics/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-probate-costs",
+    "destination": "/probate-costs/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-probate-process",
+    "destination": "/probate-process/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-probate-real-estate",
+    "destination": "/probate-real-estate/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-probate-timeline",
+    "destination": "/probate-timeline/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-qprt-attorney",
+    "destination": "/qprt/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-retirement-account-trust",
+    "destination": "/retirement-account-trust/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-revocable-trust-attorney",
+    "destination": "/revocable-trust/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-sibling-estate-dispute",
+    "destination": "/sibling-estate-dispute/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-slayer-statute",
+    "destination": "/slayer-statute/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-small-estate-affidavit",
+    "destination": "/small-estate-affidavit/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-special-needs-trust-attorney",
+    "destination": "/special-needs-trust/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-springs-estate-planning-attorney",
+    "destination": "/colorado-springs/estate-planning-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-springs-probate-attorney",
+    "destination": "/colorado-springs/probate-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-stepparent-inheritance-dispute",
+    "destination": "/stepparent-inheritance-dispute/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-trust-accounting-demand",
+    "destination": "/trust-accounting-demand/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-trust-administration-attorney",
+    "destination": "/trust-administration/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-trust-beneficiary-rights",
+    "destination": "/trust-beneficiary-rights/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-trust-decanting",
+    "destination": "/trust-decanting/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-trust-litigation-attorney",
+    "destination": "/trust-disputes/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-trustee-removal-attorney",
+    "destination": "/trustee-removal/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-undue-influence-lawyer",
+    "destination": "/undue-influence/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-uniform-trust-code",
+    "destination": "/uniform-trust-code/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-will-contest-attorney",
+    "destination": "/will-contest/",
+    "statusCode": 301
+  },
+  {
+    "source": "/colorado-wills-and-trusts-lawyer",
+    "destination": "/wills-and-trusts/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-estate-administration-lawyer",
+    "destination": "/denver/estate-administration-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-estate-planning-attorney",
+    "destination": "/denver/estate-planning-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-family-trust-attorney",
+    "destination": "/denver/family-trust-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-guardianship-attorney",
+    "destination": "/denver/guardianship-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-living-trust-lawyer",
+    "destination": "/denver/living-trust-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-probate-attorney",
+    "destination": "/denver/probate-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-probate-court-guide",
+    "destination": "/probate-court-guide/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-probate-litigation-attorney",
+    "destination": "/denver/probate-litigation-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/denver-wills-attorney",
+    "destination": "/denver/wills-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/digital-assets-estate-planning-colorado",
+    "destination": "/digital-assets-estate-planning/",
+    "statusCode": 301
+  },
+  {
+    "source": "/diy-will-vs-attorney-colorado",
+    "destination": "/diy-will-vs/",
+    "statusCode": 301
+  },
+  {
+    "source": "/do-i-need-a-trust-colorado",
+    "destination": "/do-i-need-a-trust/",
+    "statusCode": 301
+  },
+  {
+    "source": "/estate-planning-after-divorce-colorado",
+    "destination": "/estate-planning-after-divorce/",
+    "statusCode": 301
+  },
+  {
+    "source": "/estate-planning-for-blended-families-colorado",
+    "destination": "/estate-planning-for-blended-families/",
+    "statusCode": 301
+  },
+  {
+    "source": "/estate-planning-for-young-families-colorado",
+    "destination": "/for/young-families/",
+    "statusCode": 301
+  },
+  {
+    "source": "/federal-estate-tax-exemption-2026",
+    "destination": "/federal-estate-tax-exemption/",
+    "statusCode": 301
+  },
+  {
+    "source": "/fort-collins-estate-planning-attorney",
+    "destination": "/fort-collins/estate-planning-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/grand-junction-estate-planning-attorney",
+    "destination": "/grand-junction/estate-planning-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/greeley-estate-planning-attorney",
+    "destination": "/greeley/estate-planning-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/highlands-ranch-estate-planning",
+    "destination": "/highlands-ranch/estate-planning-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/how-much-does-estate-planning-cost-colorado",
+    "destination": "/how-much-does-estate-planning-cost/",
+    "statusCode": 301
+  },
+  {
+    "source": "/how-to-avoid-probate-colorado",
+    "destination": "/how-to-avoid-probate/",
+    "statusCode": 301
+  },
+  {
+    "source": "/how-to-contest-a-will-colorado-cost",
+    "destination": "/will-contest-cost/",
+    "statusCode": 301
+  },
+  {
+    "source": "/lakewood-estate-planning-attorney",
+    "destination": "/lakewood/estate-planning-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/littleton-estate-planning-attorney",
+    "destination": "/littleton/estate-planning-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/longmont-estate-planning-attorney",
+    "destination": "/longmont/estate-planning-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/pueblo-estate-planning-attorney",
+    "destination": "/pueblo/estate-planning-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/summit-county-estate-planning",
+    "destination": "/summit-county/estate-planning-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/trustee-not-communicating-colorado",
+    "destination": "/trustee-not-communicating/",
+    "statusCode": 301
+  },
+  {
+    "source": "/vail-estate-planning-attorney",
+    "destination": "/vail/estate-planning-lawyer/",
+    "statusCode": 301
+  },
+  {
+    "source": "/what-happens-to-house-when-parent-dies-colorado",
+    "destination": "/what-happens-to-house-when-parent-dies/",
+    "statusCode": 301
+  },
+  {
+    "source": "/when-to-update-estate-plan-colorado",
+    "destination": "/when-to-update-estate-plan/",
+    "statusCode": 301
+  },
+  {
+    "source": "/will-vs-trust-colorado",
+    "destination": "/will-vs-trust/",
+    "statusCode": 301
+  }
+]

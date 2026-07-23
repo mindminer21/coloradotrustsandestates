@@ -1,0 +1,1803 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-22",
+  "site": "Colorado Trusts & Estates",
+  "reviewStatus": "DRAFT — attorney review pending",
+  "pillarTypes": {
+    "problem": "/{problem}/",
+    "audience": "/for/{audience}/",
+    "location": "/{city}/{problem-lawyer}/"
+  },
+  "magnets": [
+    {
+      "path": "/estate-snapshot",
+      "label": "Colorado Estate Snapshot"
+    }
+  ],
+  "topicHubs": {
+    "estate-planning": "/estate-planning/",
+    "probate": "/probate/",
+    "inheritance-disputes": "/inheritance-disputes/",
+    "trust-disputes": "/trust-disputes/",
+    "trusts": "/living-trusts/",
+    "trust-administration": "/trust-administration/",
+    "estate-tax-planning": "/estate-tax-planning/",
+    "business-succession": "/business-succession/",
+    "elder-law": "/elder-financial-exploitation/",
+    "asset-protection": "/asset-protection/"
+  },
+  "pages": [
+    {
+      "sourceSlug": "audience-business-owners",
+      "legacyPath": null,
+      "path": "/for/business-owners/",
+      "type": "audience",
+      "title": "Colorado Estate Planning for Business Owners",
+      "topics": [
+        "business-succession",
+        "estate-planning"
+      ],
+      "city": null,
+      "origin": "draft-new",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/business-succession/",
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "audience-executors",
+      "legacyPath": null,
+      "path": "/for/executors/",
+      "type": "audience",
+      "title": "Colorado Probate Guidance for Executors",
+      "topics": [
+        "probate"
+      ],
+      "city": null,
+      "origin": "draft-new",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/probate/"
+      ]
+    },
+    {
+      "sourceSlug": "audience-parents",
+      "legacyPath": null,
+      "path": "/for/parents/",
+      "type": "audience",
+      "title": "Colorado Estate Planning for Parents",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": null,
+      "origin": "draft-new",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "audience-trustees",
+      "legacyPath": null,
+      "path": "/for/trustees/",
+      "type": "audience",
+      "title": "Colorado Trust Guidance for Trustees",
+      "topics": [
+        "trust-administration",
+        "trust-disputes"
+      ],
+      "city": null,
+      "origin": "draft-new",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/trust-administration/",
+        "/trust-disputes/"
+      ]
+    },
+    {
+      "sourceSlug": "estate-planning-for-young-families-colorado",
+      "legacyPath": "/estate-planning-for-young-families-colorado",
+      "path": "/for/young-families/",
+      "type": "audience",
+      "title": "Estate Planning for Young Families in Colorado",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "aspen-estate-planning-attorney",
+      "legacyPath": "/aspen-estate-planning-attorney",
+      "path": "/aspen/estate-planning-lawyer/",
+      "type": "location",
+      "title": "Aspen Estate Planning Attorney",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": "aspen",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "aurora-estate-planning-attorney",
+      "legacyPath": "/aurora-estate-planning-attorney",
+      "path": "/aurora/estate-planning-lawyer/",
+      "type": "location",
+      "title": "Aurora Estate Planning Attorney",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": "aurora",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "boulder-estate-planning-attorney",
+      "legacyPath": "/boulder-estate-planning-attorney",
+      "path": "/boulder/estate-planning-lawyer/",
+      "type": "location",
+      "title": "Boulder Estate Planning Attorney",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": "boulder",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "broomfield-estate-planning-attorney",
+      "legacyPath": "/broomfield-estate-planning-attorney",
+      "path": "/broomfield/estate-planning-lawyer/",
+      "type": "location",
+      "title": "Broomfield Estate Planning Attorney",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": "broomfield",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "castle-rock-estate-planning-attorney",
+      "legacyPath": "/castle-rock-estate-planning-attorney",
+      "path": "/castle-rock/estate-planning-lawyer/",
+      "type": "location",
+      "title": "Castle Rock Estate Planning Attorney",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": "castle-rock",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-springs-estate-planning-attorney",
+      "legacyPath": "/colorado-springs-estate-planning-attorney",
+      "path": "/colorado-springs/estate-planning-lawyer/",
+      "type": "location",
+      "title": "Colorado Springs Estate Planning Attorney",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": "colorado-springs",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-springs-probate-attorney",
+      "legacyPath": "/colorado-springs-probate-attorney",
+      "path": "/colorado-springs/probate-lawyer/",
+      "type": "location",
+      "title": "Colorado Springs Probate Attorney",
+      "topics": [
+        "probate"
+      ],
+      "city": "colorado-springs",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/probate/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-estate-administration-lawyer",
+      "legacyPath": "/denver-estate-administration-lawyer",
+      "path": "/denver/estate-administration-lawyer/",
+      "type": "location",
+      "title": "Denver Estate Administration Lawyer",
+      "topics": [
+        "probate"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/probate/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-estate-planning-attorney",
+      "legacyPath": "/denver-estate-planning-attorney",
+      "path": "/denver/estate-planning-lawyer/",
+      "type": "location",
+      "title": "Denver Estate Planning Attorney",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-family-trust-attorney",
+      "legacyPath": "/denver-family-trust-attorney",
+      "path": "/denver/family-trust-lawyer/",
+      "type": "location",
+      "title": "Denver Family Trust Attorney",
+      "topics": [
+        "trusts"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/living-trusts/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-guardianship-attorney",
+      "legacyPath": "/denver-guardianship-attorney",
+      "path": "/denver/guardianship-lawyer/",
+      "type": "location",
+      "title": "Denver Guardianship Attorney",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-living-trust-lawyer",
+      "legacyPath": "/denver-living-trust-lawyer",
+      "path": "/denver/living-trust-lawyer/",
+      "type": "location",
+      "title": "Denver Living Trust Lawyer",
+      "topics": [
+        "trusts"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/living-trusts/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-probate-attorney",
+      "legacyPath": "/denver-probate-attorney",
+      "path": "/denver/probate-lawyer/",
+      "type": "location",
+      "title": "Denver Probate Attorney",
+      "topics": [
+        "probate"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/probate/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-probate-litigation-attorney",
+      "legacyPath": "/denver-probate-litigation-attorney",
+      "path": "/denver/probate-litigation-lawyer/",
+      "type": "location",
+      "title": "Denver Probate Litigation Attorney",
+      "topics": [
+        "probate"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/probate/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-wills-attorney",
+      "legacyPath": "/denver-wills-attorney",
+      "path": "/denver/wills-lawyer/",
+      "type": "location",
+      "title": "Denver Wills Attorney",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": "denver",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "fort-collins-estate-planning-attorney",
+      "legacyPath": "/fort-collins-estate-planning-attorney",
+      "path": "/fort-collins/estate-planning-lawyer/",
+      "type": "location",
+      "title": "Fort Collins Estate Planning Attorney",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": "fort-collins",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "grand-junction-estate-planning-attorney",
+      "legacyPath": "/grand-junction-estate-planning-attorney",
+      "path": "/grand-junction/estate-planning-lawyer/",
+      "type": "location",
+      "title": "Grand Junction Estate Planning Attorney",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": "grand-junction",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "greeley-estate-planning-attorney",
+      "legacyPath": "/greeley-estate-planning-attorney",
+      "path": "/greeley/estate-planning-lawyer/",
+      "type": "location",
+      "title": "Greeley Estate Planning Attorney",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": "greeley",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "highlands-ranch-estate-planning",
+      "legacyPath": "/highlands-ranch-estate-planning",
+      "path": "/highlands-ranch/estate-planning-lawyer/",
+      "type": "location",
+      "title": "Highlands Ranch Estate Planning",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": "highlands-ranch",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "lakewood-estate-planning-attorney",
+      "legacyPath": "/lakewood-estate-planning-attorney",
+      "path": "/lakewood/estate-planning-lawyer/",
+      "type": "location",
+      "title": "Lakewood Estate Planning Attorney",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": "lakewood",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "littleton-estate-planning-attorney",
+      "legacyPath": "/littleton-estate-planning-attorney",
+      "path": "/littleton/estate-planning-lawyer/",
+      "type": "location",
+      "title": "Littleton Estate Planning Attorney",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": "littleton",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "longmont-estate-planning-attorney",
+      "legacyPath": "/longmont-estate-planning-attorney",
+      "path": "/longmont/estate-planning-lawyer/",
+      "type": "location",
+      "title": "Longmont Estate Planning Attorney",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": "longmont",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "pueblo-estate-planning-attorney",
+      "legacyPath": "/pueblo-estate-planning-attorney",
+      "path": "/pueblo/estate-planning-lawyer/",
+      "type": "location",
+      "title": "Pueblo Estate Planning Attorney",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": "pueblo",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "summit-county-estate-planning",
+      "legacyPath": "/summit-county-estate-planning",
+      "path": "/summit-county/estate-planning-lawyer/",
+      "type": "location",
+      "title": "Summit County Estate Planning",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": "summit-county",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "vail-estate-planning-attorney",
+      "legacyPath": "/vail-estate-planning-attorney",
+      "path": "/vail/estate-planning-lawyer/",
+      "type": "location",
+      "title": "Vail Estate Planning Attorney",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": "vail",
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": false,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-advance-directive-attorney",
+      "legacyPath": "/colorado-advance-directive-attorney",
+      "path": "/advance-directive/",
+      "type": "problem",
+      "title": "Colorado Advance Directive & Living Will Attorney",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-ancillary-probate",
+      "legacyPath": "/colorado-ancillary-probate",
+      "path": "/ancillary-probate/",
+      "type": "problem",
+      "title": "Ancillary Probate in Colorado",
+      "topics": [
+        "probate"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/probate/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-asset-protection-attorney",
+      "legacyPath": "/colorado-asset-protection-attorney",
+      "path": "/asset-protection/",
+      "type": "problem",
+      "title": "Colorado Asset Protection Attorney",
+      "topics": [
+        "asset-protection"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/asset-protection/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-beneficiary-deed",
+      "legacyPath": "/colorado-beneficiary-deed",
+      "path": "/beneficiary-deed/",
+      "type": "problem",
+      "title": "The Colorado Beneficiary Deed: When It Works and When It Backfires",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-beneficiary-designation-review",
+      "legacyPath": "/colorado-beneficiary-designation-review",
+      "path": "/beneficiary-designation-review/",
+      "type": "problem",
+      "title": "Beneficiary Designation Mistakes Colorado Families Make",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-breach-of-fiduciary-duty-attorney",
+      "legacyPath": "/colorado-breach-of-fiduciary-duty-attorney",
+      "path": "/breach-of-fiduciary-duty/",
+      "type": "problem",
+      "title": "Colorado Breach of Fiduciary Duty Attorney",
+      "topics": [
+        "trust-disputes"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/trust-disputes/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-business-succession-planning",
+      "legacyPath": "/colorado-business-succession-planning",
+      "path": "/business-succession/",
+      "type": "problem",
+      "title": "Business Succession Planning in Colorado",
+      "topics": [
+        "business-succession"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/business-succession/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-caregiver-undue-influence",
+      "legacyPath": "/colorado-caregiver-undue-influence",
+      "path": "/caregiver-undue-influence/",
+      "type": "problem",
+      "title": "When a Caregiver Takes the Estate: Undue Influence in Colorado",
+      "topics": [
+        "inheritance-disputes"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/inheritance-disputes/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-charitable-planning-attorney",
+      "legacyPath": "/colorado-charitable-planning-attorney",
+      "path": "/charitable-planning/",
+      "type": "problem",
+      "title": "Charitable Planning Attorney in Colorado",
+      "topics": [
+        "estate-tax-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-tax-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-charitable-remainder-trust",
+      "legacyPath": "/colorado-charitable-remainder-trust",
+      "path": "/charitable-remainder-trust/",
+      "type": "problem",
+      "title": "Charitable Remainder Trusts in Colorado",
+      "topics": [
+        "estate-tax-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-tax-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-contest-a-trust",
+      "legacyPath": "/colorado-contest-a-trust",
+      "path": "/contest-a-trust/",
+      "type": "problem",
+      "title": "Can You Contest a Trust in Colorado?",
+      "topics": [
+        "trust-disputes"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/trust-disputes/"
+      ]
+    },
+    {
+      "sourceSlug": "digital-assets-estate-planning-colorado",
+      "legacyPath": "/digital-assets-estate-planning-colorado",
+      "path": "/digital-assets-estate-planning/",
+      "type": "problem",
+      "title": "Digital Assets Estate Planning in Colorado",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "diy-will-vs-attorney-colorado",
+      "legacyPath": "/diy-will-vs-attorney-colorado",
+      "path": "/diy-will-vs/",
+      "type": "problem",
+      "title": "Is a DIY Will Valid in Colorado?",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "do-i-need-a-trust-colorado",
+      "legacyPath": "/do-i-need-a-trust-colorado",
+      "path": "/do-i-need-a-trust/",
+      "type": "problem",
+      "title": "Do I Need a Trust in Colorado?",
+      "topics": [
+        "trusts"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/living-trusts/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-elder-financial-exploitation-lawyer",
+      "legacyPath": "/colorado-elder-financial-exploitation-lawyer",
+      "path": "/elder-financial-exploitation/",
+      "type": "problem",
+      "title": "Elder Financial Exploitation Lawyer in Colorado",
+      "topics": [
+        "elder-law"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/elder-financial-exploitation/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-elective-share",
+      "legacyPath": "/colorado-elective-share",
+      "path": "/elective-share/",
+      "type": "problem",
+      "title": "The Spousal Elective Share in Colorado, Explained",
+      "topics": [
+        "inheritance-disputes"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/inheritance-disputes/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-estate-plan-review",
+      "legacyPath": "/colorado-estate-plan-review",
+      "path": "/estate-plan-review/",
+      "type": "problem",
+      "title": "Colorado Estate Plan Review: Is Your Old Plan Still Your Plan?",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "estate-planning-after-divorce-colorado",
+      "legacyPath": "/estate-planning-after-divorce-colorado",
+      "path": "/estate-planning-after-divorce/",
+      "type": "problem",
+      "title": "Estate Planning After Divorce in Colorado",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-estate-planning-checklist",
+      "legacyPath": "/colorado-estate-planning-checklist",
+      "path": "/estate-planning-checklist/",
+      "type": "problem",
+      "title": "The Colorado Estate Planning Checklist",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "estate-planning-for-blended-families-colorado",
+      "legacyPath": "/estate-planning-for-blended-families-colorado",
+      "path": "/estate-planning-for-blended-families/",
+      "type": "problem",
+      "title": "Estate Planning for Blended Families in Colorado",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-estate-planning-attorney",
+      "legacyPath": "/colorado-estate-planning-attorney",
+      "path": "/estate-planning/",
+      "type": "problem",
+      "title": "Colorado Estate Planning Attorney",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-estate-property-title-dispute",
+      "legacyPath": "/colorado-estate-property-title-dispute",
+      "path": "/estate-property-title-dispute/",
+      "type": "problem",
+      "title": "Colorado Estate Property Title Dispute Lawyer",
+      "topics": [
+        "inheritance-disputes"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/inheritance-disputes/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-estate-tax-planning",
+      "legacyPath": "/colorado-estate-tax-planning",
+      "path": "/estate-tax-planning/",
+      "type": "problem",
+      "title": "Estate Tax Planning in Colorado",
+      "topics": [
+        "estate-tax-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-tax-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-executor-duties",
+      "legacyPath": "/colorado-executor-duties",
+      "path": "/executor-duties/",
+      "type": "problem",
+      "title": "Executor Duties in Colorado",
+      "topics": [
+        "probate"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/probate/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-executor-misconduct-attorney",
+      "legacyPath": "/colorado-executor-misconduct-attorney",
+      "path": "/executor-misconduct/",
+      "type": "problem",
+      "title": "Colorado Executor Misconduct Attorney",
+      "topics": [
+        "probate"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/probate/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-farm-ranch-succession-planning",
+      "legacyPath": "/colorado-farm-ranch-succession-planning",
+      "path": "/farm-ranch-succession-planning/",
+      "type": "problem",
+      "title": "Colorado Farm & Ranch Succession Planning",
+      "topics": [
+        "business-succession"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/business-succession/"
+      ]
+    },
+    {
+      "sourceSlug": "federal-estate-tax-exemption-2026",
+      "legacyPath": "/federal-estate-tax-exemption-2026",
+      "path": "/federal-estate-tax-exemption/",
+      "type": "problem",
+      "title": "The 2026 Federal Estate Tax Exemption, Explained",
+      "topics": [
+        "estate-tax-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-tax-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-generation-skipping-trust",
+      "legacyPath": "/colorado-generation-skipping-trust",
+      "path": "/generation-skipping-trust/",
+      "type": "problem",
+      "title": "Generation-Skipping Trusts in Colorado",
+      "topics": [
+        "estate-tax-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-tax-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-gift-tax-planning",
+      "legacyPath": "/colorado-gift-tax-planning",
+      "path": "/gift-tax-planning/",
+      "type": "problem",
+      "title": "Gift Tax Planning in Colorado",
+      "topics": [
+        "estate-tax-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-tax-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "how-much-does-estate-planning-cost-colorado",
+      "legacyPath": "/how-much-does-estate-planning-cost-colorado",
+      "path": "/how-much-does-estate-planning-cost/",
+      "type": "problem",
+      "title": "How Much Does Estate Planning Cost in Colorado?",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "how-to-avoid-probate-colorado",
+      "legacyPath": "/how-to-avoid-probate-colorado",
+      "path": "/how-to-avoid-probate/",
+      "type": "problem",
+      "title": "How to Avoid Probate in Colorado",
+      "topics": [
+        "probate"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/probate/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-ilit-attorney",
+      "legacyPath": "/colorado-ilit-attorney",
+      "path": "/ilit/",
+      "type": "problem",
+      "title": "Colorado Irrevocable Life Insurance Trust Attorney",
+      "topics": [
+        "estate-tax-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-tax-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-inheritance-dispute-lawyer",
+      "legacyPath": "/colorado-inheritance-dispute-lawyer",
+      "path": "/inheritance-disputes/",
+      "type": "problem",
+      "title": "Colorado Inheritance Dispute Lawyer",
+      "topics": [
+        "inheritance-disputes"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/inheritance-disputes/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-inheritance-tax",
+      "legacyPath": "/colorado-inheritance-tax",
+      "path": "/inheritance-tax/",
+      "type": "problem",
+      "title": "Does Colorado Have an Inheritance Tax?",
+      "topics": [
+        "estate-tax-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-tax-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-intestate-succession",
+      "legacyPath": "/colorado-intestate-succession",
+      "path": "/intestate-succession/",
+      "type": "problem",
+      "title": "Dying Without a Will in Colorado: Who Actually Inherits",
+      "topics": [
+        "probate"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/probate/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-irrevocable-trust-attorney",
+      "legacyPath": "/colorado-irrevocable-trust-attorney",
+      "path": "/irrevocable-trust/",
+      "type": "problem",
+      "title": "Colorado Irrevocable Trust Attorney",
+      "topics": [
+        "trusts"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/living-trusts/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-living-trust-attorney",
+      "legacyPath": "/colorado-living-trust-attorney",
+      "path": "/living-trusts/",
+      "type": "problem",
+      "title": "Colorado Living Trust Attorney",
+      "topics": [
+        "trusts"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/living-trusts/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-lost-will-lawyer",
+      "legacyPath": "/colorado-lost-will-lawyer",
+      "path": "/lost-will/",
+      "type": "problem",
+      "title": "Colorado Lost Will Lawyer",
+      "topics": [
+        "inheritance-disputes"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/inheritance-disputes/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-medicaid-planning-attorney",
+      "legacyPath": "/colorado-medicaid-planning-attorney",
+      "path": "/medicaid-planning/",
+      "type": "problem",
+      "title": "Colorado Medicaid Planning Attorney",
+      "topics": [
+        "elder-law"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/elder-financial-exploitation/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-missing-inheritance",
+      "legacyPath": "/colorado-missing-inheritance",
+      "path": "/missing-inheritance/",
+      "type": "problem",
+      "title": "Never Received Your Inheritance in Colorado?",
+      "topics": [
+        "inheritance-disputes"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/inheritance-disputes/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-nonresident-alien-estate-planning",
+      "legacyPath": "/colorado-nonresident-alien-estate-planning",
+      "path": "/nonresident-alien-estate-planning/",
+      "type": "problem",
+      "title": "Estate Planning for Non-Citizens and Global Families in Colorado",
+      "topics": [
+        "estate-tax-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-tax-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-out-of-state-executor",
+      "legacyPath": "/colorado-out-of-state-executor",
+      "path": "/out-of-state-executor/",
+      "type": "problem",
+      "title": "Serving as an Out-of-State Executor of a Colorado Estate",
+      "topics": [
+        "probate"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/probate/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-poa-abuse-attorney",
+      "legacyPath": "/colorado-poa-abuse-attorney",
+      "path": "/poa-abuse/",
+      "type": "problem",
+      "title": "Power of Attorney Abuse Attorney in Colorado",
+      "topics": [
+        "elder-law"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/elder-financial-exploitation/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-power-of-attorney-lawyer",
+      "legacyPath": "/colorado-power-of-attorney-lawyer",
+      "path": "/power-of-attorney/",
+      "type": "problem",
+      "title": "Colorado Power of Attorney Lawyer",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-probate-code-basics",
+      "legacyPath": "/colorado-probate-code-basics",
+      "path": "/probate-code-basics/",
+      "type": "problem",
+      "title": "Colorado Probate Code Basics: How the System Actually Works",
+      "topics": [
+        "probate"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/probate/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-probate-costs",
+      "legacyPath": "/colorado-probate-costs",
+      "path": "/probate-costs/",
+      "type": "problem",
+      "title": "How Much Does Probate Cost in Colorado?",
+      "topics": [
+        "probate"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/probate/"
+      ]
+    },
+    {
+      "sourceSlug": "denver-probate-court-guide",
+      "legacyPath": "/denver-probate-court-guide",
+      "path": "/probate-court-guide/",
+      "type": "problem",
+      "title": "A Practical Guide to Denver Probate Court",
+      "topics": [
+        "probate"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/probate/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-probate-process",
+      "legacyPath": "/colorado-probate-process",
+      "path": "/probate-process/",
+      "type": "problem",
+      "title": "How Does Probate Work in Colorado?",
+      "topics": [
+        "probate"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/probate/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-probate-real-estate",
+      "legacyPath": "/colorado-probate-real-estate",
+      "path": "/probate-real-estate/",
+      "type": "problem",
+      "title": "Selling a House in Probate in Colorado",
+      "topics": [
+        "probate"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/probate/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-probate-timeline",
+      "legacyPath": "/colorado-probate-timeline",
+      "path": "/probate-timeline/",
+      "type": "problem",
+      "title": "How Long Does Probate Take in Colorado?",
+      "topics": [
+        "probate"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/probate/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-probate-attorney",
+      "legacyPath": "/colorado-probate-attorney",
+      "path": "/probate/",
+      "type": "problem",
+      "title": "Colorado Probate Lawyer",
+      "topics": [
+        "probate"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/probate/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-qprt-attorney",
+      "legacyPath": "/colorado-qprt-attorney",
+      "path": "/qprt/",
+      "type": "problem",
+      "title": "Colorado Qualified Personal Residence Trust (QPRT) Attorney",
+      "topics": [
+        "estate-tax-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-tax-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-retirement-account-trust",
+      "legacyPath": "/colorado-retirement-account-trust",
+      "path": "/retirement-account-trust/",
+      "type": "problem",
+      "title": "Colorado Retirement Account Trust Attorney",
+      "topics": [
+        "asset-protection"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/asset-protection/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-revocable-trust-attorney",
+      "legacyPath": "/colorado-revocable-trust-attorney",
+      "path": "/revocable-trust/",
+      "type": "problem",
+      "title": "Colorado Revocable Trust Attorney",
+      "topics": [
+        "trusts"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/living-trusts/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-sibling-estate-dispute",
+      "legacyPath": "/colorado-sibling-estate-dispute",
+      "path": "/sibling-estate-dispute/",
+      "type": "problem",
+      "title": "Sibling Estate Disputes in Colorado",
+      "topics": [
+        "inheritance-disputes"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/inheritance-disputes/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-slayer-statute",
+      "legacyPath": "/colorado-slayer-statute",
+      "path": "/slayer-statute/",
+      "type": "problem",
+      "title": "The Slayer Rule in Colorado: When the Law Blocks an Inheritance",
+      "topics": [
+        "inheritance-disputes"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/inheritance-disputes/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-small-estate-affidavit",
+      "legacyPath": "/colorado-small-estate-affidavit",
+      "path": "/small-estate-affidavit/",
+      "type": "problem",
+      "title": "Colorado Small Estate Affidavit",
+      "topics": [
+        "probate"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/probate/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-special-needs-trust-attorney",
+      "legacyPath": "/colorado-special-needs-trust-attorney",
+      "path": "/special-needs-trust/",
+      "type": "problem",
+      "title": "Special Needs Trust Attorney in Colorado",
+      "topics": [
+        "asset-protection"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/asset-protection/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-stepparent-inheritance-dispute",
+      "legacyPath": "/colorado-stepparent-inheritance-dispute",
+      "path": "/stepparent-inheritance-dispute/",
+      "type": "problem",
+      "title": "Stepparent Inheritance Disputes in Colorado",
+      "topics": [
+        "inheritance-disputes"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/inheritance-disputes/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-trust-accounting-demand",
+      "legacyPath": "/colorado-trust-accounting-demand",
+      "path": "/trust-accounting-demand/",
+      "type": "problem",
+      "title": "How to Demand a Trust Accounting in Colorado",
+      "topics": [
+        "trust-disputes"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/trust-disputes/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-trust-administration-attorney",
+      "legacyPath": "/colorado-trust-administration-attorney",
+      "path": "/trust-administration/",
+      "type": "problem",
+      "title": "Colorado Trust Administration Attorney",
+      "topics": [
+        "trust-administration"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/trust-administration/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-trust-beneficiary-rights",
+      "legacyPath": "/colorado-trust-beneficiary-rights",
+      "path": "/trust-beneficiary-rights/",
+      "type": "problem",
+      "title": "Trust Beneficiary Rights in Colorado",
+      "topics": [
+        "trust-disputes"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/trust-disputes/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-trust-decanting",
+      "legacyPath": "/colorado-trust-decanting",
+      "path": "/trust-decanting/",
+      "type": "problem",
+      "title": "Trust Decanting in Colorado: Fixing an Irrevocable Trust That No Longer Works",
+      "topics": [
+        "trust-disputes"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/trust-disputes/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-trust-litigation-attorney",
+      "legacyPath": "/colorado-trust-litigation-attorney",
+      "path": "/trust-disputes/",
+      "type": "problem",
+      "title": "Colorado Trust Litigation Attorney",
+      "topics": [
+        "trust-disputes"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/trust-disputes/"
+      ]
+    },
+    {
+      "sourceSlug": "trustee-not-communicating-colorado",
+      "legacyPath": "/trustee-not-communicating-colorado",
+      "path": "/trustee-not-communicating/",
+      "type": "problem",
+      "title": "What to Do When a Colorado Trustee Won't Communicate",
+      "topics": [
+        "trust-disputes"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/trust-disputes/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-trustee-removal-attorney",
+      "legacyPath": "/colorado-trustee-removal-attorney",
+      "path": "/trustee-removal/",
+      "type": "problem",
+      "title": "How to Remove a Trustee in Colorado",
+      "topics": [
+        "trust-disputes"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/trust-disputes/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-undue-influence-lawyer",
+      "legacyPath": "/colorado-undue-influence-lawyer",
+      "path": "/undue-influence/",
+      "type": "problem",
+      "title": "Colorado Undue Influence Lawyer",
+      "topics": [
+        "inheritance-disputes"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/inheritance-disputes/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-uniform-trust-code",
+      "legacyPath": "/colorado-uniform-trust-code",
+      "path": "/uniform-trust-code/",
+      "type": "problem",
+      "title": "The Colorado Uniform Trust Code, Explained in Plain English",
+      "topics": [
+        "trust-disputes"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/trust-disputes/"
+      ]
+    },
+    {
+      "sourceSlug": "what-happens-to-house-when-parent-dies-colorado",
+      "legacyPath": "/what-happens-to-house-when-parent-dies-colorado",
+      "path": "/what-happens-to-house-when-parent-dies/",
+      "type": "problem",
+      "title": "What Happens to the House When a Parent Dies in Colorado?",
+      "topics": [
+        "probate"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/probate/"
+      ]
+    },
+    {
+      "sourceSlug": "when-to-update-estate-plan-colorado",
+      "legacyPath": "/when-to-update-estate-plan-colorado",
+      "path": "/when-to-update-estate-plan/",
+      "type": "problem",
+      "title": "When Should You Update Your Estate Plan?",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "how-to-contest-a-will-colorado-cost",
+      "legacyPath": "/how-to-contest-a-will-colorado-cost",
+      "path": "/will-contest-cost/",
+      "type": "problem",
+      "title": "What Does It Cost to Contest a Will in Colorado?",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-will-contest-attorney",
+      "legacyPath": "/colorado-will-contest-attorney",
+      "path": "/will-contest/",
+      "type": "problem",
+      "title": "Colorado Will Contest Attorney",
+      "topics": [
+        "inheritance-disputes"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/inheritance-disputes/"
+      ]
+    },
+    {
+      "sourceSlug": "will-vs-trust-colorado",
+      "legacyPath": "/will-vs-trust-colorado",
+      "path": "/will-vs-trust/",
+      "type": "problem",
+      "title": "Will vs. Trust in Colorado: The Honest Comparison",
+      "topics": [
+        "trusts"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/living-trusts/"
+      ]
+    },
+    {
+      "sourceSlug": "colorado-wills-and-trusts-lawyer",
+      "legacyPath": "/colorado-wills-and-trusts-lawyer",
+      "path": "/wills-and-trusts/",
+      "type": "problem",
+      "title": "Colorado Wills and Trusts Lawyer",
+      "topics": [
+        "estate-planning"
+      ],
+      "city": null,
+      "origin": "existing",
+      "reviewStatus": "DRAFT — attorney review pending",
+      "isHub": true,
+      "parentHubs": [
+        "/estate-planning/"
+      ]
+    }
+  ]
+}

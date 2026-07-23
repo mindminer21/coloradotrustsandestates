@@ -23,11 +23,11 @@ export default function SiteFooter() {
           <div>
             <p className="mb-3 font-semibold text-white/90">Services</p>
             {[
-              ["/denver-estate-planning-attorney", "Estate planning"],
-              ["/colorado-living-trust-attorney", "Living trusts"],
-              ["/denver-probate-attorney", "Probate"],
-              ["/colorado-trust-litigation-attorney", "Trust disputes"],
-              ["/colorado-estate-tax-planning", "Estate tax planning"],
+              ["/denver/estate-planning-lawyer", "Estate planning"],
+              ["/living-trusts", "Living trusts"],
+              ["/denver/probate-lawyer", "Probate"],
+              ["/trust-disputes", "Trust disputes"],
+              ["/estate-tax-planning", "Estate tax planning"],
               ["/practice-areas", "All services →"],
             ].map(([href, label]) => (
               <Link key={href} href={href} className="block py-1 text-white/60 hover:text-gold-soft">
@@ -39,9 +39,9 @@ export default function SiteFooter() {
             <p className="mb-3 font-semibold text-white/90">Resources</p>
             {[
               ["/estate-snapshot", "Estate Snapshot"],
-              ["/colorado-intestate-succession", "Dying without a will in CO"],
-              ["/federal-estate-tax-exemption-2026", "2026 tax law changes"],
-              ["/colorado-probate-process", "How Colorado probate works"],
+              ["/intestate-succession", "Dying without a will in CO"],
+              ["/federal-estate-tax-exemption", "2026 tax law changes"],
+              ["/probate-process", "How Colorado probate works"],
               ["/about", "Our attorneys"],
               ["/privacy", "Privacy policy"],
               ["/disclaimer", "Legal disclaimer"],

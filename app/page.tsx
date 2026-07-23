@@ -18,15 +18,15 @@ export const metadata: Metadata = {
 };
 
 const SERVICES = [
-  { href: "/denver-estate-planning-attorney", label: "Estate planning", d: "Wills, trusts, and plans that actually work" },
-  { href: "/colorado-living-trust-attorney", label: "Living trusts", d: "Keep your family out of court" },
-  { href: "/denver-probate-attorney", label: "Probate & administration", d: "Guidance for executors and families" },
-  { href: "/colorado-trust-litigation-attorney", label: "Trust & estate disputes", d: "When something isn't right" },
-  { href: "/colorado-estate-tax-planning", label: "Estate tax strategy", d: "The 2026 rules changed everything" },
-  { href: "/colorado-special-needs-trust-attorney", label: "Special needs planning", d: "Protection without losing benefits" },
-  { href: "/colorado-business-succession-planning", label: "Business succession", d: "The company outlives the founder" },
-  { href: "/denver-elder-law-attorney", label: "Elder law & incapacity", d: "Powers of attorney, care, dignity" },
-  { href: "/colorado-will-contest-attorney", label: "Will contests", d: "Undue influence and capacity challenges" },
+  { href: "/estate-planning", label: "Estate planning", d: "Wills, trusts, and plans that actually work" },
+  { href: "/living-trusts", label: "Living trusts", d: "Keep your family out of court" },
+  { href: "/probate", label: "Probate & administration", d: "Guidance for executors and families" },
+  { href: "/trust-disputes", label: "Trust & estate disputes", d: "When something isn't right" },
+  { href: "/estate-tax-planning", label: "Estate tax strategy", d: "The 2026 rules changed everything" },
+  { href: "/special-needs-trust", label: "Special needs planning", d: "Protection without losing benefits" },
+  { href: "/business-succession", label: "Business succession", d: "The company outlives the founder" },
+  { href: "/elder-financial-exploitation", label: "Elder law & incapacity", d: "Powers of attorney, care, dignity" },
+  { href: "/will-contest", label: "Will contests", d: "Undue influence and capacity challenges" },
 ];
 
 export default function HomePage() {

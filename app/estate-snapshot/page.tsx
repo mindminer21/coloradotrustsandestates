@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import SnapshotWidget from "@/components/SnapshotWidget";
 import AttorneyCards from "@/components/AttorneyCards";
 import Reveal from "@/components/Reveal";
+import MagnetPillarLinks from "@/components/MagnetPillarLinks";
 
 export const metadata: Metadata = {
   title: "Free Colorado Estate Snapshot | Whiteford Trusts & Estates",
@@ -34,6 +35,7 @@ export default function SnapshotPage() {
           </p>
         </Reveal>
       </div>
+      <MagnetPillarLinks paths={["/estate-planning/", "/for/parents/", "/denver/estate-planning-lawyer/"]} />
       <AttorneyCards />
     </>
   );

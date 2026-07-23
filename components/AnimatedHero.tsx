@@ -70,7 +70,7 @@ export default function AnimatedHero({
         <p className="mt-6 max-w-2xl text-lg leading-relaxed text-white/80">{sub}</p>
         <div className="mt-9 flex flex-wrap items-center gap-4">
           <Link
-            href="/case-estimator"
+            href="/estate-snapshot"
             className="cta-gold inline-flex items-center gap-2 rounded-sm bg-gold px-6 py-3.5 text-[0.95rem] font-semibold text-navy-ink shadow-[0_10px_35px_rgba(198,161,91,0.4)] transition-all duration-300 hover:-translate-y-0.5 hover:shadow-[0_16px_45px_rgba(198,161,91,0.5)]"
           >
             {SITE.offers.snapshot.cta}
@@ -82,7 +82,7 @@ export default function AnimatedHero({
             Call {SITE.phone} — answered 24/7
           </a>
         </div>
-        <p className="mt-5 text-sm font-medium text-gold-soft/90">{SITE.offers.guarantee}</p>
+        <p className="mt-5 text-sm font-medium text-gold-soft/90">{SITE.offers.guarantee}<span className="ml-2 text-xs font-normal text-white/45">Planning fees are quoted in advance; representation terms vary by matter.</span></p>
       </div>
     </section>
   );

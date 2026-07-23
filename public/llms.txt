@@ -1,0 +1,123 @@
+# Colorado Trusts & Estates
+
+> Colorado trusts-and-estates acquisition site. All customer-facing pillar copy is DRAFT pending attorney review. The site is intentionally noindexed and password-gated.
+
+## Architecture
+
+- Problem pillars use /{problem}/ and explain a legal need or claim type.
+- Audience pillars use /for/{audience}/ and orient a defined group to relevant problem and location resources.
+- Location pillars use /{city}/{problem-lawyer}/ and connect local context to the corresponding problem hub.
+- Legal figures appear only in the rendered LawContext component, not content JSON.
+
+## Problem pillars
+
+- https://coloradotrustsandestates.com/advance-directive/
+- https://coloradotrustsandestates.com/ancillary-probate/
+- https://coloradotrustsandestates.com/asset-protection/
+- https://coloradotrustsandestates.com/beneficiary-deed/
+- https://coloradotrustsandestates.com/beneficiary-designation-review/
+- https://coloradotrustsandestates.com/breach-of-fiduciary-duty/
+- https://coloradotrustsandestates.com/business-succession/
+- https://coloradotrustsandestates.com/caregiver-undue-influence/
+- https://coloradotrustsandestates.com/charitable-planning/
+- https://coloradotrustsandestates.com/charitable-remainder-trust/
+- https://coloradotrustsandestates.com/contest-a-trust/
+- https://coloradotrustsandestates.com/digital-assets-estate-planning/
+- https://coloradotrustsandestates.com/diy-will-vs/
+- https://coloradotrustsandestates.com/do-i-need-a-trust/
+- https://coloradotrustsandestates.com/elder-financial-exploitation/
+- https://coloradotrustsandestates.com/elective-share/
+- https://coloradotrustsandestates.com/estate-plan-review/
+- https://coloradotrustsandestates.com/estate-planning-after-divorce/
+- https://coloradotrustsandestates.com/estate-planning-checklist/
+- https://coloradotrustsandestates.com/estate-planning-for-blended-families/
+- https://coloradotrustsandestates.com/estate-planning/
+- https://coloradotrustsandestates.com/estate-property-title-dispute/
+- https://coloradotrustsandestates.com/estate-tax-planning/
+- https://coloradotrustsandestates.com/executor-duties/
+- https://coloradotrustsandestates.com/executor-misconduct/
+- https://coloradotrustsandestates.com/farm-ranch-succession-planning/
+- https://coloradotrustsandestates.com/federal-estate-tax-exemption/
+- https://coloradotrustsandestates.com/generation-skipping-trust/
+- https://coloradotrustsandestates.com/gift-tax-planning/
+- https://coloradotrustsandestates.com/how-much-does-estate-planning-cost/
+- https://coloradotrustsandestates.com/how-to-avoid-probate/
+- https://coloradotrustsandestates.com/ilit/
+- https://coloradotrustsandestates.com/inheritance-disputes/
+- https://coloradotrustsandestates.com/inheritance-tax/
+- https://coloradotrustsandestates.com/intestate-succession/
+- https://coloradotrustsandestates.com/irrevocable-trust/
+- https://coloradotrustsandestates.com/living-trusts/
+- https://coloradotrustsandestates.com/lost-will/
+- https://coloradotrustsandestates.com/medicaid-planning/
+- https://coloradotrustsandestates.com/missing-inheritance/
+- https://coloradotrustsandestates.com/nonresident-alien-estate-planning/
+- https://coloradotrustsandestates.com/out-of-state-executor/
+- https://coloradotrustsandestates.com/poa-abuse/
+- https://coloradotrustsandestates.com/power-of-attorney/
+- https://coloradotrustsandestates.com/probate-code-basics/
+- https://coloradotrustsandestates.com/probate-costs/
+- https://coloradotrustsandestates.com/probate-court-guide/
+- https://coloradotrustsandestates.com/probate-process/
+- https://coloradotrustsandestates.com/probate-real-estate/
+- https://coloradotrustsandestates.com/probate-timeline/
+- https://coloradotrustsandestates.com/probate/
+- https://coloradotrustsandestates.com/qprt/
+- https://coloradotrustsandestates.com/retirement-account-trust/
+- https://coloradotrustsandestates.com/revocable-trust/
+- https://coloradotrustsandestates.com/sibling-estate-dispute/
+- https://coloradotrustsandestates.com/slayer-statute/
+- https://coloradotrustsandestates.com/small-estate-affidavit/
+- https://coloradotrustsandestates.com/special-needs-trust/
+- https://coloradotrustsandestates.com/stepparent-inheritance-dispute/
+- https://coloradotrustsandestates.com/trust-accounting-demand/
+- https://coloradotrustsandestates.com/trust-administration/
+- https://coloradotrustsandestates.com/trust-beneficiary-rights/
+- https://coloradotrustsandestates.com/trust-decanting/
+- https://coloradotrustsandestates.com/trust-disputes/
+- https://coloradotrustsandestates.com/trustee-not-communicating/
+- https://coloradotrustsandestates.com/trustee-removal/
+- https://coloradotrustsandestates.com/undue-influence/
+- https://coloradotrustsandestates.com/uniform-trust-code/
+- https://coloradotrustsandestates.com/what-happens-to-house-when-parent-dies/
+- https://coloradotrustsandestates.com/when-to-update-estate-plan/
+- https://coloradotrustsandestates.com/will-contest-cost/
+- https://coloradotrustsandestates.com/will-contest/
+- https://coloradotrustsandestates.com/will-vs-trust/
+- https://coloradotrustsandestates.com/wills-and-trusts/
+
+## Audience pillars
+
+- https://coloradotrustsandestates.com/for/business-owners/
+- https://coloradotrustsandestates.com/for/executors/
+- https://coloradotrustsandestates.com/for/parents/
+- https://coloradotrustsandestates.com/for/trustees/
+- https://coloradotrustsandestates.com/for/young-families/
+
+## Location pillars
+
+- https://coloradotrustsandestates.com/aspen/estate-planning-lawyer/
+- https://coloradotrustsandestates.com/aurora/estate-planning-lawyer/
+- https://coloradotrustsandestates.com/boulder/estate-planning-lawyer/
+- https://coloradotrustsandestates.com/broomfield/estate-planning-lawyer/
+- https://coloradotrustsandestates.com/castle-rock/estate-planning-lawyer/
+- https://coloradotrustsandestates.com/colorado-springs/estate-planning-lawyer/
+- https://coloradotrustsandestates.com/colorado-springs/probate-lawyer/
+- https://coloradotrustsandestates.com/denver/estate-administration-lawyer/
+- https://coloradotrustsandestates.com/denver/estate-planning-lawyer/
+- https://coloradotrustsandestates.com/denver/family-trust-lawyer/
+- https://coloradotrustsandestates.com/denver/guardianship-lawyer/
+- https://coloradotrustsandestates.com/denver/living-trust-lawyer/
+- https://coloradotrustsandestates.com/denver/probate-lawyer/
+- https://coloradotrustsandestates.com/denver/probate-litigation-lawyer/
+- https://coloradotrustsandestates.com/denver/wills-lawyer/
+- https://coloradotrustsandestates.com/fort-collins/estate-planning-lawyer/
+- https://coloradotrustsandestates.com/grand-junction/estate-planning-lawyer/
+- https://coloradotrustsandestates.com/greeley/estate-planning-lawyer/
+- https://coloradotrustsandestates.com/highlands-ranch/estate-planning-lawyer/
+- https://coloradotrustsandestates.com/lakewood/estate-planning-lawyer/
+- https://coloradotrustsandestates.com/littleton/estate-planning-lawyer/
+- https://coloradotrustsandestates.com/longmont/estate-planning-lawyer/
+- https://coloradotrustsandestates.com/pueblo/estate-planning-lawyer/
+- https://coloradotrustsandestates.com/summit-county/estate-planning-lawyer/
+- https://coloradotrustsandestates.com/vail/estate-planning-lawyer/
